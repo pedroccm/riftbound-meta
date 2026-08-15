@@ -48,7 +48,7 @@ re-cunha sozinho quando o cookie cai. O cookie só vale no MESMO IP + User-Agent
 ## Deploy (Netlify, conta gaiadev-pedro)
 
 - Repo: https://github.com/pedroccm/riftbound-meta (conta `pedroccm`)
-- Site: riftbound-meta-app.netlify.app (base `web/`, plugin `@netlify/plugin-nextjs`,
+- Site: meta-rb-tcg.netlify.app ("riftbound-*" e "lol-*" são recusados pelo Netlify) (base `web/`, plugin `@netlify/plugin-nextjs`,
   Node 22 obrigatório por causa do `node:sqlite`)
 - O `.db` e as imagens (`web/public/img`, ~330MB) VÃO no git: o site é servido
   a partir deles. O build copia `../riftbound.db` pra `web/` e o tracing do Next
