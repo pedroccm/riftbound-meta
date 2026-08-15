@@ -25,17 +25,31 @@ import type {
 export type * from './types'
 export * from './format'
 
-// dev: ../riftbound.db (raiz do projeto). deploy (Netlify): o build copia o .db
-// pra dentro de web/ e o tracing leva junto na funcao serverless.
-const DB_PATH =
-  process.env.RIFTBOUND_DB ??
-  [path.join(process.cwd(), 'riftbound.db'), path.join(process.cwd(), '..', 'riftbound.db')]
-    .find((p) => fs.existsSync(p)) ??
-  path.join(process.cwd(), '..', 'riftbound.db')
+// Onde esta o riftbound.db:
+//   dev:    ../riftbound.db (raiz do projeto, cwd = web/)
+//   deploy: o build copia pra web/riftbound.db e o outputFileTracingIncludes leva
+//           junto na funcao serverless. La o process.cwd() NAO e a raiz do app,
+//           entao alem do cwd procuramos subindo a partir do proprio modulo.
+function findDb(): string {
+  if (process.env.RIFTBOUND_DB) return process.env.RIFTBOUND_DB
+  const cands: string[] = [
+    path.join(process.cwd(), 'riftbound.db'),
+    path.join(process.cwd(), '..', 'riftbound.db'),
+    path.join(process.cwd(), 'web', 'riftbound.db'),
+  ]
+  // sobe ate 8 niveis a partir de __dirname (chunk compilado em .next/server/...)
+  let dir = typeof __dirname === 'string' ? __dirname : process.cwd()
+  for (let i = 0; i < 8; i++) {
+    cands.push(path.join(dir, 'riftbound.db'))
+    dir = path.dirname(dir)
+  }
+  return cands.find((p) => fs.existsSync(p)) ?? cands[1]
+}
+const DB_PATH = findDb()
 
 let _db: DatabaseSync | null = null
 function db(): DatabaseSync {
-  if (!_db) _db = new DatabaseSync(DB_PATH)
+  if (!_db) _db = new DatabaseSync(DB_PATH, { readOnly: true })
   return _db
 }
 
