@@ -119,6 +119,9 @@ def main():
             load_file(cx, d)
         done += 1
     cx.execute('PRAGMA wal_checkpoint(TRUNCATE)')
+    # arquivo unico e autocontido: no Netlify (Lambda) o filesystem e read-only e
+    # um banco em WAL nao abre (o SQLite quer criar o -shm ao lado)
+    cx.execute('PRAGMA journal_mode=DELETE')
 
     q = lambda s: cx.execute(s).fetchone()[0]
     print(f'{done} decks carregados, {skipped} ja no banco'
