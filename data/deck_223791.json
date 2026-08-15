@@ -1,0 +1,467 @@
+{
+ "id": 223791,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-akali-223791",
+ "rank": "3rd",
+ "rank_num": 3,
+ "record": "",
+ "legend": "Akali, Rogue Assassin",
+ "legend_img": "/img/cards/riftbound/VEN/ven-139-166_tile.png",
+ "name": "Akali",
+ "player": "Brаd00f",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "calm",
+  "fury"
+ ],
+ "players": 19,
+ "store": "Manascrew",
+ "tournament": "MANASCREW - Friday Evening Nexus Night - 31 07 2026",
+ "stars": 2,
+ "price_usd": 410.07,
+ "spiciness": 44,
+ "date": "2026-07-31",
+ "archetype": "Calm Fury",
+ "archetype_slug": "calm-fury",
+ "tournament_id": 13659,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-139-166_full.png",
+   "set": "VEN",
+   "num": "139",
+   "code": "VEN-139",
+   "name": "Akali, Rogue Assassin",
+   "slug": "akali-rogue-assassin",
+   "rarity": "rare",
+   "price_usd": 0.15,
+   "domains": [
+    "fury",
+    "calm"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-038-166_full.png",
+   "set": "VEN",
+   "num": "038",
+   "code": "VEN-038",
+   "name": "Akali, Silent",
+   "slug": "akali-silent",
+   "rarity": "rare",
+   "price_usd": 0.27,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-002-219_full.png",
+   "set": "UNL",
+   "num": "002",
+   "code": "UNL-002",
+   "name": "Inferna",
+   "slug": "inferna",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-036-221_full.png",
+   "set": "SFD",
+   "num": "036",
+   "code": "SFD-036",
+   "name": "Lonely Poro",
+   "slug": "lonely-poro",
+   "rarity": "common",
+   "price_usd": 0.19,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-028-166_full.png",
+   "set": "VEN",
+   "num": "028",
+   "code": "VEN-028",
+   "name": "Mournful Witness",
+   "slug": "mournful-witness",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-039a-298_full.png",
+   "set": "OGN",
+   "num": "039a",
+   "code": "OGN-039a",
+   "name": "Kai'Sa, Survivor",
+   "slug": "kaisa-survivor",
+   "rarity": "epic",
+   "price_usd": 77.35,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-048-221_full.png",
+   "set": "SFD",
+   "num": "048",
+   "code": "SFD-048",
+   "name": "Stellacorn Herder",
+   "slug": "stellacorn-herder",
+   "rarity": "uncommon",
+   "price_usd": 1.5,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-225-221_full.png",
+   "set": "SFD",
+   "num": "225",
+   "code": "SFD-225",
+   "name": "Irelia, Fervent",
+   "slug": "irelia-fervent",
+   "rarity": "epic",
+   "price_usd": 21.19,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-060-298_full.png",
+   "set": "OGN",
+   "num": "060",
+   "code": "OGN-060",
+   "name": "Mask of Foresight",
+   "slug": "mask-of-foresight",
+   "rarity": "uncommon",
+   "price_usd": 0.42,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-077-298_full.png",
+   "set": "OGN",
+   "num": "077",
+   "code": "OGN-077",
+   "name": "Zhonya's Hourglass",
+   "slug": "zhonyas-hourglass",
+   "rarity": "rare",
+   "price_usd": 19.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-043-298_full.png",
+   "set": "OGN",
+   "num": "043",
+   "code": "OGN-043",
+   "name": "Charm",
+   "slug": "charm",
+   "rarity": "common",
+   "price_usd": 1.01,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-004-298_full.png",
+   "set": "OGN",
+   "num": "004",
+   "code": "OGN-004",
+   "name": "Cleave",
+   "slug": "cleave",
+   "rarity": "common",
+   "price_usd": 0.18,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-045-298_full.png",
+   "set": "OGN",
+   "num": "045",
+   "code": "OGN-045",
+   "name": "Defy",
+   "slug": "defy",
+   "rarity": "common",
+   "price_usd": 4.63,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-046-298_full.png",
+   "set": "OGN",
+   "num": "046",
+   "code": "OGN-046",
+   "name": "En Garde",
+   "slug": "en-garde",
+   "rarity": "common",
+   "price_usd": 0.24,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-140-166_full.png",
+   "set": "VEN",
+   "num": "140",
+   "code": "VEN-140",
+   "name": "Shuriken Flip",
+   "slug": "shuriken-flip",
+   "rarity": "epic",
+   "price_usd": 15.85,
+   "domains": [
+    "fury",
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-031-166_full.png",
+   "set": "VEN",
+   "num": "031",
+   "code": "VEN-031",
+   "name": "Twilight Shroud",
+   "slug": "twilight-shroud",
+   "rarity": "common",
+   "price_usd": 0.11,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-058-298_full.png",
+   "set": "OGN",
+   "num": "058",
+   "code": "OGN-058",
+   "name": "Discipline",
+   "slug": "discipline",
+   "rarity": "uncommon",
+   "price_usd": 2.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-042-219_full.png",
+   "set": "UNL",
+   "num": "042",
+   "code": "UNL-042",
+   "name": "Back Off",
+   "slug": "back-off",
+   "rarity": "uncommon",
+   "price_usd": 0.22,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-277-298_full.png",
+   "set": "OGN",
+   "num": "277",
+   "code": "OGN-277",
+   "name": "Back-Alley Bar",
+   "slug": "back-alley-bar",
+   "rarity": "uncommon",
+   "price_usd": 0.17,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-289-298_full.png",
+   "set": "OGN",
+   "num": "289",
+   "code": "OGN-289",
+   "name": "Targon's Peak",
+   "slug": "targons-peak",
+   "rarity": "uncommon",
+   "price_usd": 0.23,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-298-298_full.png",
+   "set": "OGN",
+   "num": "298",
+   "code": "OGN-298",
+   "name": "Zaun Warrens",
+   "slug": "zaun-warrens",
+   "rarity": "uncommon",
+   "price_usd": 0.21,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-042-298_full.png",
+   "set": "OGN",
+   "num": "042",
+   "code": "OGN-042",
+   "name": "Calm Rune",
+   "slug": "calm-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-007a-298_full.png",
+   "set": "OGN",
+   "num": "007a",
+   "code": "OGN-007a",
+   "name": "Fury Rune",
+   "slug": "fury-rune",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-001-221_full.png",
+   "set": "SFD",
+   "num": "001",
+   "code": "SFD-001",
+   "name": "Against the Odds",
+   "slug": "against-the-odds",
+   "rarity": "common",
+   "price_usd": 0.1,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-045-221_full.png",
+   "set": "SFD",
+   "num": "045",
+   "code": "SFD-045",
+   "name": "Not So Fast",
+   "slug": "not-so-fast",
+   "rarity": "uncommon",
+   "price_usd": 2.0,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-021-166_full.png",
+   "set": "VEN",
+   "num": "021",
+   "code": "VEN-021",
+   "name": "Akali, Deadly Weapon",
+   "slug": "akali-deadly-weapon",
+   "rarity": "epic",
+   "price_usd": 1.24,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-022-298_full.png",
+   "set": "OGN",
+   "num": "022",
+   "code": "OGN-022",
+   "name": "Thermo Beam",
+   "slug": "thermo-beam",
+   "rarity": "uncommon",
+   "price_usd": 0.35,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-026-298_full.png",
+   "set": "OGN",
+   "num": "026",
+   "code": "OGN-026",
+   "name": "Brynhir Thundersong",
+   "slug": "brynhir-thundersong",
+   "rarity": "rare",
+   "price_usd": 4.21,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-021-221_full.png",
+   "set": "SFD",
+   "num": "021",
+   "code": "SFD-021",
+   "name": "Ferrous Forerunner",
+   "slug": "ferrous-forerunner",
+   "rarity": "rare",
+   "price_usd": 3.82,
+   "domains": [
+    "fury"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 14:16:32"
+}

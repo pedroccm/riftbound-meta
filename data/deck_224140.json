@@ -1,0 +1,482 @@
+{
+ "id": 224140,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-224140",
+ "rank": "Top4",
+ "rank_num": 99,
+ "record": "",
+ "legend": "Rengar, Pridestalker",
+ "legend_img": "/img/cards/riftbound/UNL/unl-183-219_tile.png",
+ "name": "Rengar, Pridestalker",
+ "player": "Cаlаzerk",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "body",
+  "fury"
+ ],
+ "players": 54,
+ "store": "Circle TCG",
+ "tournament": "Mardi - Championship #2",
+ "stars": 2,
+ "price_usd": 345.23,
+ "spiciness": 24,
+ "date": "2026-08-04",
+ "archetype": "Body Fury",
+ "archetype_slug": "body-fury",
+ "tournament_id": 13686,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-183-219_full.png",
+   "set": "UNL",
+   "num": "183",
+   "code": "UNL-183",
+   "name": "Rengar, Pridestalker",
+   "slug": "rengar-pridestalker",
+   "rarity": "rare",
+   "price_usd": 0.23,
+   "domains": [
+    "fury",
+    "body"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-120-219_full.png",
+   "set": "UNL",
+   "num": "120",
+   "code": "UNL-120",
+   "name": "Rengar, Trophy Hunter",
+   "slug": "rengar-trophy-hunter",
+   "rarity": "epic",
+   "price_usd": 22.0,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-111-219_full.png",
+   "set": "UNL",
+   "num": "111",
+   "code": "UNL-111",
+   "name": "Determined Sentry",
+   "slug": "determined-sentry",
+   "rarity": "rare",
+   "price_usd": 0.26,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-002-219_full.png",
+   "set": "UNL",
+   "num": "002",
+   "code": "UNL-002",
+   "name": "Inferna",
+   "slug": "inferna",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-112-219_full.png",
+   "set": "UNL",
+   "num": "112",
+   "code": "UNL-112",
+   "name": "Irresistible Faefolk",
+   "slug": "irresistible-faefolk",
+   "rarity": "rare",
+   "price_usd": 6.17,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-136-298_full.png",
+   "set": "OGN",
+   "num": "136",
+   "code": "OGN-136",
+   "name": "Pit Rookie",
+   "slug": "pit-rookie",
+   "rarity": "common",
+   "price_usd": 0.15,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-132-298_full.png",
+   "set": "OGN",
+   "num": "132",
+   "code": "OGN-132",
+   "name": "First Mate",
+   "slug": "first-mate",
+   "rarity": "common",
+   "price_usd": 0.25,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-021-219_full.png",
+   "set": "UNL",
+   "num": "021",
+   "code": "UNL-021",
+   "name": "Grim Apothecary",
+   "slug": "grim-apothecary",
+   "rarity": "rare",
+   "price_usd": 0.27,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-097-219_full.png",
+   "set": "UNL",
+   "num": "097",
+   "code": "UNL-097",
+   "name": "Kinkou Initiate",
+   "slug": "kinkou-initiate",
+   "rarity": "common",
+   "price_usd": 0.11,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-114-219_full.png",
+   "set": "UNL",
+   "num": "114",
+   "code": "UNL-114",
+   "name": "Nidalee, Cat Form",
+   "slug": "nidalee-cat-form",
+   "rarity": "rare",
+   "price_usd": 1.33,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-020-166_full.png",
+   "set": "VEN",
+   "num": "020",
+   "code": "VEN-020",
+   "name": "Twilight Reveler",
+   "slug": "twilight-reveler",
+   "rarity": "rare",
+   "price_usd": 0.26,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-039a-298_full.png",
+   "set": "OGN",
+   "num": "039a",
+   "code": "OGN-039a",
+   "name": "Kai'Sa, Survivor",
+   "slug": "kaisa-survivor",
+   "rarity": "epic",
+   "price_usd": 77.35,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-012-298_full.png",
+   "set": "OGN",
+   "num": "012",
+   "code": "OGN-012",
+   "name": "Noxus Hopeful",
+   "slug": "noxus-hopeful",
+   "rarity": "common",
+   "price_usd": 0.43,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-026-298_full.png",
+   "set": "OGN",
+   "num": "026",
+   "code": "OGN-026",
+   "name": "Brynhir Thundersong",
+   "slug": "brynhir-thundersong",
+   "rarity": "rare",
+   "price_usd": 4.21,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-021-221_full.png",
+   "set": "SFD",
+   "num": "021",
+   "code": "SFD-021",
+   "name": "Ferrous Forerunner",
+   "slug": "ferrous-forerunner",
+   "rarity": "rare",
+   "price_usd": 3.82,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-097-221_full.png",
+   "set": "SFD",
+   "num": "097",
+   "code": "SFD-097",
+   "name": "Punch First",
+   "slug": "punch-first",
+   "rarity": "common",
+   "price_usd": 0.21,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-128-298_full.png",
+   "set": "OGN",
+   "num": "128",
+   "code": "OGN-128",
+   "name": "Challenge",
+   "slug": "challenge",
+   "rarity": "common",
+   "price_usd": 0.21,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-029-298_full.png",
+   "set": "OGN",
+   "num": "029",
+   "code": "OGN-029",
+   "name": "Falling Star",
+   "slug": "falling-star",
+   "rarity": "rare",
+   "price_usd": 19.64,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-184-219_full.png",
+   "set": "UNL",
+   "num": "184",
+   "code": "UNL-184",
+   "name": "Thrill of the Hunt",
+   "slug": "thrill-of-the-hunt",
+   "rarity": "epic",
+   "price_usd": 15.07,
+   "domains": [
+    "fury",
+    "body"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-207-221_full.png",
+   "set": "SFD",
+   "num": "207",
+   "code": "SFD-207",
+   "name": "Emperor's Dais",
+   "slug": "emperors-dais",
+   "rarity": "uncommon",
+   "price_usd": 0.15,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-210-219_full.png",
+   "set": "UNL",
+   "num": "210",
+   "code": "UNL-210",
+   "name": "Forbidding Waste",
+   "slug": "forbidding-waste",
+   "rarity": "uncommon",
+   "price_usd": 0.09,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-215-219_full.png",
+   "set": "UNL",
+   "num": "215",
+   "code": "UNL-215",
+   "name": "Star Spring",
+   "slug": "star-spring",
+   "rarity": "uncommon",
+   "price_usd": 0.14,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 7,
+   "image": "/img/cards/riftbound/OGN/ogn-126-298_full.png",
+   "set": "OGN",
+   "num": "126",
+   "code": "OGN-126",
+   "name": "Body Rune",
+   "slug": "body-rune",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 5,
+   "image": "/img/cards/riftbound/OGN/ogn-007a-298_full.png",
+   "set": "OGN",
+   "num": "007a",
+   "code": "OGN-007a",
+   "name": "Fury Rune",
+   "slug": "fury-rune",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-156-298_full.png",
+   "set": "OGN",
+   "num": "156",
+   "code": "OGN-156",
+   "name": "Sabotage",
+   "slug": "sabotage",
+   "rarity": "rare",
+   "price_usd": 19.07,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-145-298_full.png",
+   "set": "OGN",
+   "num": "145",
+   "code": "OGN-145",
+   "name": "Unyielding Spirit",
+   "slug": "unyielding-spirit",
+   "rarity": "uncommon",
+   "price_usd": 0.58,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-003-166_full.png",
+   "set": "VEN",
+   "num": "003",
+   "code": "VEN-003",
+   "name": "Brittle Steel",
+   "slug": "brittle-steel",
+   "rarity": "common",
+   "price_usd": 0.12,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-109-221_full.png",
+   "set": "SFD",
+   "num": "109",
+   "code": "SFD-109",
+   "name": "Akshan, Mischievous",
+   "slug": "akshan-mischievous",
+   "rarity": "rare",
+   "price_usd": 1.86,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-026-298_full.png",
+   "set": "OGN",
+   "num": "026",
+   "code": "OGN-026",
+   "name": "Brynhir Thundersong",
+   "slug": "brynhir-thundersong",
+   "rarity": "rare",
+   "price_usd": 4.21,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-021-221_full.png",
+   "set": "SFD",
+   "num": "021",
+   "code": "SFD-021",
+   "name": "Ferrous Forerunner",
+   "slug": "ferrous-forerunner",
+   "rarity": "rare",
+   "price_usd": 3.82,
+   "domains": [
+    "fury"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 14:07:29"
+}

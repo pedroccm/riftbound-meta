@@ -1,0 +1,482 @@
+{
+ "id": 224495,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-ya-suo-224495",
+ "rank": "3rd",
+ "rank_num": 3,
+ "record": "",
+ "legend": "Yasuo, Unforgiven",
+ "legend_img": "/img/cards/riftbound/OGN/ogn-259-298_tile.png",
+ "name": "亚索",
+ "player": "𝙶𝙻𝚇-归来",
+ "meta": "Vendetta",
+ "card_count": 64,
+ "domains": [
+  "calm",
+  "chaos"
+ ],
+ "players": 16,
+ "store": "沈阳新蜂卡牌",
+ "tournament": "BO1 Tournament",
+ "stars": 2,
+ "price_usd": 152.7,
+ "spiciness": 51,
+ "date": "2026-08-06",
+ "archetype": "Calm Chaos",
+ "archetype_slug": "calm-chaos",
+ "tournament_id": 13706,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-259-298_full.png",
+   "set": "OGN",
+   "num": "259",
+   "code": "OGN-259",
+   "name": "Yasuo, Unforgiven",
+   "slug": "yasuo-unforgiven",
+   "rarity": "rare",
+   "price_usd": 0.35,
+   "domains": [
+    "calm",
+    "chaos"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-076a-298_full.png",
+   "set": "OGN",
+   "num": "076a",
+   "code": "OGN-076a",
+   "name": "Yasuo, Remorseful",
+   "slug": "yasuo-remorseful",
+   "rarity": "rare",
+   "price_usd": 0.45,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-199-298_full.png",
+   "set": "OGN",
+   "num": "199",
+   "code": "OGN-199",
+   "name": "Tideturner",
+   "slug": "tideturner",
+   "rarity": "rare",
+   "price_usd": 3.14,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-073-298_full.png",
+   "set": "OGN",
+   "num": "073",
+   "code": "OGN-073",
+   "name": "Sona, Harmonious",
+   "slug": "sona-harmonious",
+   "rarity": "epic",
+   "price_usd": 4.53,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-048-221_full.png",
+   "set": "SFD",
+   "num": "048",
+   "code": "SFD-048",
+   "name": "Stellacorn Herder",
+   "slug": "stellacorn-herder",
+   "rarity": "uncommon",
+   "price_usd": 1.5,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-225-221_full.png",
+   "set": "SFD",
+   "num": "225",
+   "code": "SFD-225",
+   "name": "Irelia, Fervent",
+   "slug": "irelia-fervent",
+   "rarity": "epic",
+   "price_usd": 21.19,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-146-221_full.png",
+   "set": "SFD",
+   "num": "146",
+   "code": "SFD-146",
+   "name": "Vex, Cheerless",
+   "slug": "vex-cheerless",
+   "rarity": "rare",
+   "price_usd": 0.42,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-045-219_full.png",
+   "set": "UNL",
+   "num": "045",
+   "code": "UNL-045",
+   "name": "Forgotten Signpost",
+   "slug": "forgotten-signpost",
+   "rarity": "uncommon",
+   "price_usd": 0.12,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-051-221_full.png",
+   "set": "SFD",
+   "num": "051",
+   "code": "SFD-051",
+   "name": "Guardian Angel",
+   "slug": "guardian-angel",
+   "rarity": "rare",
+   "price_usd": 1.35,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-049-219_full.png",
+   "set": "UNL",
+   "num": "049",
+   "code": "UNL-049",
+   "name": "Honeyfruit",
+   "slug": "honeyfruit",
+   "rarity": "rare",
+   "price_usd": 0.14,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-133-221_full.png",
+   "set": "SFD",
+   "num": "133",
+   "code": "SFD-133",
+   "name": "Boots of Swiftness",
+   "slug": "boots-of-swiftness",
+   "rarity": "uncommon",
+   "price_usd": 0.38,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-059-221_full.png",
+   "set": "SFD",
+   "num": "059",
+   "code": "SFD-059",
+   "name": "Svellsongur",
+   "slug": "svellsongur",
+   "rarity": "epic",
+   "price_usd": 24.79,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-045-298_full.png",
+   "set": "OGN",
+   "num": "045",
+   "code": "OGN-045",
+   "name": "Defy",
+   "slug": "defy",
+   "rarity": "common",
+   "price_usd": 4.63,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-046-298_full.png",
+   "set": "OGN",
+   "num": "046",
+   "code": "OGN-046",
+   "name": "En Garde",
+   "slug": "en-garde",
+   "rarity": "common",
+   "price_usd": 0.24,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-134-219_full.png",
+   "set": "UNL",
+   "num": "134",
+   "code": "UNL-134",
+   "name": "Existential Dread",
+   "slug": "existential-dread",
+   "rarity": "uncommon",
+   "price_usd": 0.21,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-058-298_full.png",
+   "set": "OGN",
+   "num": "058",
+   "code": "OGN-058",
+   "name": "Discipline",
+   "slug": "discipline",
+   "rarity": "uncommon",
+   "price_usd": 2.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-034-221_full.png",
+   "set": "SFD",
+   "num": "034",
+   "code": "SFD-034",
+   "name": "Feral Strength",
+   "slug": "feral-strength",
+   "rarity": "common",
+   "price_usd": 0.08,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-173-298_full.png",
+   "set": "OGN",
+   "num": "173",
+   "code": "OGN-173",
+   "name": "Ride the Wind",
+   "slug": "ride-the-wind",
+   "rarity": "common",
+   "price_usd": 1.25,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-260-298_full.png",
+   "set": "OGN",
+   "num": "260",
+   "code": "OGN-260",
+   "name": "Last Breath",
+   "slug": "last-breath",
+   "rarity": "epic",
+   "price_usd": 1.84,
+   "domains": [
+    "calm",
+    "chaos"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-205-219_full.png",
+   "set": "UNL",
+   "num": "205",
+   "code": "UNL-205",
+   "name": "Abandoned Hall",
+   "slug": "abandoned-hall",
+   "rarity": "uncommon",
+   "price_usd": 0.1,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-218-221_full.png",
+   "set": "SFD",
+   "num": "218",
+   "code": "SFD-218",
+   "name": "Sunken Temple",
+   "slug": "sunken-temple",
+   "rarity": "uncommon",
+   "price_usd": 0.15,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-289-298_full.png",
+   "set": "OGN",
+   "num": "289",
+   "code": "OGN-289",
+   "name": "Targon's Peak",
+   "slug": "targons-peak",
+   "rarity": "uncommon",
+   "price_usd": 0.23,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 7,
+   "image": "/img/cards/riftbound/OGN/ogn-042-298_full.png",
+   "set": "OGN",
+   "num": "042",
+   "code": "OGN-042",
+   "name": "Calm Rune",
+   "slug": "calm-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 5,
+   "image": "/img/cards/riftbound/OGN/ogn-166-298_full.png",
+   "set": "OGN",
+   "num": "166",
+   "code": "OGN-166",
+   "name": "Chaos Rune",
+   "slug": "chaos-rune",
+   "rarity": "common",
+   "price_usd": 0.08,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-172-298_full.png",
+   "set": "OGN",
+   "num": "172",
+   "code": "OGN-172",
+   "name": "Rebuke",
+   "slug": "rebuke",
+   "rarity": "common",
+   "price_usd": 0.27,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-052-221_full.png",
+   "set": "SFD",
+   "num": "052",
+   "code": "SFD-052",
+   "name": "Heart of Dark Ice",
+   "slug": "heart-of-dark-ice",
+   "rarity": "rare",
+   "price_usd": 0.25,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-056-298_full.png",
+   "set": "OGN",
+   "num": "056",
+   "code": "OGN-056",
+   "name": "Adaptatron",
+   "slug": "adaptatron",
+   "rarity": "uncommon",
+   "price_usd": 0.24,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-080-298_full.png",
+   "set": "OGN",
+   "num": "080",
+   "code": "OGN-080",
+   "name": "Mystic Reversal",
+   "slug": "mystic-reversal",
+   "rarity": "epic",
+   "price_usd": 1.43,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-146-221_full.png",
+   "set": "SFD",
+   "num": "146",
+   "code": "SFD-146",
+   "name": "Vex, Cheerless",
+   "slug": "vex-cheerless",
+   "rarity": "rare",
+   "price_usd": 0.42,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-205-298_full.png",
+   "set": "OGN",
+   "num": "205",
+   "code": "OGN-205",
+   "name": "Yasuo, Windrider",
+   "slug": "yasuo-windrider",
+   "rarity": "showcase",
+   "price_usd": 1.39,
+   "domains": [
+    "chaos"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 14:05:11"
+}

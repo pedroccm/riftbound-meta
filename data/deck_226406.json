@@ -1,0 +1,557 @@
+{
+ "id": 226406,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-jiang-hu-jiao-de-226406",
+ "rank": "1st",
+ "rank_num": 1,
+ "record": "",
+ "legend": "Kai'sa, Daughter of the Void",
+ "legend_img": "/img/cards/riftbound/OGN/ogn-299-298_tile.png",
+ "name": "浆糊教的",
+ "player": "Ether",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "fury",
+  "mind"
+ ],
+ "players": 128,
+ "store": "宝卡游艺(后海店)",
+ "tournament": "S4 Shenzhen City Challenge",
+ "stars": 3,
+ "price_usd": 337.93,
+ "spiciness": 29,
+ "date": "2026-08-08",
+ "archetype": "Fury Mind",
+ "archetype_slug": "fury-mind",
+ "tournament_id": 13740,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-299-298_full.png",
+   "set": "OGN",
+   "num": "299",
+   "code": "OGN-299",
+   "name": "Kai'sa, Daughter of the Void",
+   "slug": "kaisa-daughter-of-the-void",
+   "rarity": "rare",
+   "price_usd": 0.3,
+   "domains": [
+    "fury",
+    "mind"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-039a-298_full.png",
+   "set": "OGN",
+   "num": "039a",
+   "code": "OGN-039a",
+   "name": "Kai'Sa, Survivor",
+   "slug": "kaisa-survivor",
+   "rarity": "epic",
+   "price_usd": 77.35,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-069-221_full.png",
+   "set": "SFD",
+   "num": "069",
+   "code": "SFD-069",
+   "name": "Plundering Poro",
+   "slug": "plundering-poro",
+   "rarity": "common",
+   "price_usd": 0.2,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-013-298_full.png",
+   "set": "OGN",
+   "num": "013",
+   "code": "OGN-013",
+   "name": "Pouty Poro",
+   "slug": "pouty-poro",
+   "rarity": "common",
+   "price_usd": 0.12,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-096-298_full.png",
+   "set": "OGN",
+   "num": "096",
+   "code": "OGN-096",
+   "name": "Watchful Sentry",
+   "slug": "watchful-sentry",
+   "rarity": "common",
+   "price_usd": 0.17,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-087-298_full.png",
+   "set": "OGN",
+   "num": "087",
+   "code": "OGN-087",
+   "name": "Lecturing Yordle",
+   "slug": "lecturing-yordle",
+   "rarity": "common",
+   "price_usd": 0.14,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-012-298_full.png",
+   "set": "OGN",
+   "num": "012",
+   "code": "OGN-012",
+   "name": "Noxus Hopeful",
+   "slug": "noxus-hopeful",
+   "rarity": "common",
+   "price_usd": 0.43,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-026-298_full.png",
+   "set": "OGN",
+   "num": "026",
+   "code": "OGN-026",
+   "name": "Brynhir Thundersong",
+   "slug": "brynhir-thundersong",
+   "rarity": "rare",
+   "price_usd": 4.21,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-116-298_full.png",
+   "set": "OGN",
+   "num": "116",
+   "code": "OGN-116",
+   "name": "Thousand-Tailed Watcher",
+   "slug": "thousand-tailed-watcher",
+   "rarity": "rare",
+   "price_usd": 28.91,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-080-221_full.png",
+   "set": "SFD",
+   "num": "080",
+   "code": "SFD-080",
+   "name": "Bellows Breath",
+   "slug": "bellows-breath",
+   "rarity": "rare",
+   "price_usd": 4.07,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-009-298_full.png",
+   "set": "OGN",
+   "num": "009",
+   "code": "OGN-009",
+   "name": "Hextech Ray",
+   "slug": "hextech-ray",
+   "rarity": "common",
+   "price_usd": 0.16,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-104-298_full.png",
+   "set": "OGN",
+   "num": "104",
+   "code": "OGN-104",
+   "name": "Retreat",
+   "slug": "retreat",
+   "rarity": "uncommon",
+   "price_usd": 0.85,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-095-298_full.png",
+   "set": "OGN",
+   "num": "095",
+   "code": "OGN-095",
+   "name": "Stupefy",
+   "slug": "stupefy",
+   "rarity": "common",
+   "price_usd": 0.24,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-003-166_full.png",
+   "set": "VEN",
+   "num": "003",
+   "code": "VEN-003",
+   "name": "Brittle Steel",
+   "slug": "brittle-steel",
+   "rarity": "common",
+   "price_usd": 0.12,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-029-298_full.png",
+   "set": "OGN",
+   "num": "029",
+   "code": "OGN-029",
+   "name": "Falling Star",
+   "slug": "falling-star",
+   "rarity": "rare",
+   "price_usd": 19.64,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-066-166_full.png",
+   "set": "VEN",
+   "num": "066",
+   "code": "VEN-066",
+   "name": "Temporal Breach",
+   "slug": "temporal-breach",
+   "rarity": "rare",
+   "price_usd": 0.63,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-063-219_full.png",
+   "set": "UNL",
+   "num": "063",
+   "code": "UNL-063",
+   "name": "Eclipse",
+   "slug": "eclipse",
+   "rarity": "common",
+   "price_usd": 0.11,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-069-219_full.png",
+   "set": "UNL",
+   "num": "069",
+   "code": "UNL-069",
+   "name": "Sprite Burst",
+   "slug": "sprite-burst",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-114-298_full.png",
+   "set": "OGN",
+   "num": "114",
+   "code": "OGN-114",
+   "name": "Progress Day",
+   "slug": "progress-day",
+   "rarity": "rare",
+   "price_usd": 1.34,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-105-298_full.png",
+   "set": "OGN",
+   "num": "105",
+   "code": "OGN-105",
+   "name": "Singularity",
+   "slug": "singularity",
+   "rarity": "uncommon",
+   "price_usd": 1.34,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-122-298_full.png",
+   "set": "OGN",
+   "num": "122",
+   "code": "OGN-122",
+   "name": "Time Warp",
+   "slug": "time-warp",
+   "rarity": "epic",
+   "price_usd": 67.93,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-212-219_full.png",
+   "set": "UNL",
+   "num": "212",
+   "code": "UNL-212",
+   "name": "Frozen Fortress",
+   "slug": "frozen-fortress",
+   "rarity": "uncommon",
+   "price_usd": 0.11,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-216-221_full.png",
+   "set": "SFD",
+   "num": "216",
+   "code": "SFD-216",
+   "name": "Rockfall Path",
+   "slug": "rockfall-path",
+   "rarity": "uncommon",
+   "price_usd": 0.15,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-296-298_full.png",
+   "set": "OGN",
+   "num": "296",
+   "code": "OGN-296",
+   "name": "Void Gate",
+   "slug": "void-gate",
+   "rarity": "uncommon",
+   "price_usd": 0.23,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 7,
+   "image": "/img/cards/riftbound/OGN/ogn-007a-298_full.png",
+   "set": "OGN",
+   "num": "007a",
+   "code": "OGN-007a",
+   "name": "Fury Rune",
+   "slug": "fury-rune",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 5,
+   "image": "/img/cards/riftbound/OGN/ogn-089a-298_full.png",
+   "set": "OGN",
+   "num": "089a",
+   "code": "OGN-089a",
+   "name": "Mind Rune",
+   "slug": "mind-rune",
+   "rarity": "common",
+   "price_usd": 0.1,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-080-221_full.png",
+   "set": "SFD",
+   "num": "080",
+   "code": "SFD-080",
+   "name": "Bellows Breath",
+   "slug": "bellows-breath",
+   "rarity": "rare",
+   "price_usd": 4.07,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-061-166_full.png",
+   "set": "VEN",
+   "num": "061",
+   "code": "VEN-061",
+   "name": "Decree of Insight",
+   "slug": "decree-of-insight",
+   "rarity": "rare",
+   "price_usd": 0.23,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-015-166_full.png",
+   "set": "VEN",
+   "num": "015",
+   "code": "VEN-015",
+   "name": "Decree of Rage",
+   "slug": "decree-of-rage",
+   "rarity": "rare",
+   "price_usd": 0.19,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-003-166_full.png",
+   "set": "VEN",
+   "num": "003",
+   "code": "VEN-003",
+   "name": "Brittle Steel",
+   "slug": "brittle-steel",
+   "rarity": "common",
+   "price_usd": 0.12,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-012-166_full.png",
+   "set": "VEN",
+   "num": "012",
+   "code": "VEN-012",
+   "name": "Perfect Execution",
+   "slug": "perfect-execution",
+   "rarity": "uncommon",
+   "price_usd": 0.15,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-022-298_full.png",
+   "set": "OGN",
+   "num": "022",
+   "code": "OGN-022",
+   "name": "Thermo Beam",
+   "slug": "thermo-beam",
+   "rarity": "uncommon",
+   "price_usd": 0.35,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-021-221_full.png",
+   "set": "SFD",
+   "num": "021",
+   "code": "SFD-021",
+   "name": "Ferrous Forerunner",
+   "slug": "ferrous-forerunner",
+   "rarity": "rare",
+   "price_usd": 3.82,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-114-298_full.png",
+   "set": "OGN",
+   "num": "114",
+   "code": "OGN-114",
+   "name": "Progress Day",
+   "slug": "progress-day",
+   "rarity": "rare",
+   "price_usd": 1.34,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-248-298_full.png",
+   "set": "OGN",
+   "num": "248",
+   "code": "OGN-248",
+   "name": "Icathian Rain",
+   "slug": "icathian-rain",
+   "rarity": "epic",
+   "price_usd": 2.36,
+   "domains": [
+    "fury",
+    "mind"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 13:58:29"
+}

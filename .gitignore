@@ -1,0 +1,12 @@
+rift_clearance.json
+.patchright_profile/
+scrape.log
+images.log
+riftbound.db-shm
+riftbound.db-wal
+web/node_modules/
+web/.next/
+web/dev.log
+web/tsconfig.tsbuildinfo
+__pycache__/
+web/riftbound.db

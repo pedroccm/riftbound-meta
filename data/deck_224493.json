@@ -1,0 +1,467 @@
+{
+ "id": 224493,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-shu-rui-ma-224493",
+ "rank": "1st",
+ "rank_num": 1,
+ "record": "",
+ "legend": "Azir, Emperor of the Sands",
+ "legend_img": "/img/cards/riftbound/SFD/sfd-197-221_tile.png",
+ "name": "恕瑞玛",
+ "player": "铁头-魔法恐龙",
+ "meta": "Vendetta",
+ "card_count": 64,
+ "domains": [
+  "calm",
+  "order"
+ ],
+ "players": 16,
+ "store": "沈阳新蜂卡牌",
+ "tournament": "BO1 Tournament",
+ "stars": 2,
+ "price_usd": 120.28,
+ "spiciness": 35,
+ "date": "2026-08-06",
+ "archetype": "Calm Order",
+ "archetype_slug": "calm-order",
+ "tournament_id": 13706,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-197-221_full.png",
+   "set": "SFD",
+   "num": "197",
+   "code": "SFD-197",
+   "name": "Azir, Emperor of the Sands",
+   "slug": "azir-emperor-of-the-sands",
+   "rarity": "showcase",
+   "price_usd": 0.17,
+   "domains": [
+    "calm",
+    "order"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-177a-221_full.png",
+   "set": "SFD",
+   "num": "177a",
+   "code": "SFD-177a",
+   "name": "Azir, Sovereign",
+   "slug": "azir-sovereign",
+   "rarity": "epic",
+   "price_usd": 7.59,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-176a-219_full.png",
+   "set": "UNL",
+   "num": "176a",
+   "code": "UNL-176a",
+   "name": "Vi, Peacekeeper",
+   "slug": "vi-peacekeeper",
+   "rarity": "rare",
+   "price_usd": 3.19,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-033-221_full.png",
+   "set": "SFD",
+   "num": "033",
+   "code": "SFD-033",
+   "name": "Doran's Shield",
+   "slug": "dorans-shield",
+   "rarity": "common",
+   "price_usd": 0.1,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-153-221_full.png",
+   "set": "SFD",
+   "num": "153",
+   "code": "SFD-153",
+   "name": "Eye of the Herald",
+   "slug": "eye-of-the-herald",
+   "rarity": "common",
+   "price_usd": 0.1,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-039-219_full.png",
+   "set": "UNL",
+   "num": "039",
+   "code": "UNL-039",
+   "name": "Soul Sword",
+   "slug": "soul-sword",
+   "rarity": "common",
+   "price_usd": 0.08,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-042-221_full.png",
+   "set": "SFD",
+   "num": "042",
+   "code": "SFD-042",
+   "name": "Brutalizer",
+   "slug": "brutalizer",
+   "rarity": "uncommon",
+   "price_usd": 0.29,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-161-221_full.png",
+   "set": "SFD",
+   "num": "161",
+   "code": "SFD-161",
+   "name": "B.F. Sword",
+   "slug": "b-f-sword",
+   "rarity": "uncommon",
+   "price_usd": 0.32,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-043-298_full.png",
+   "set": "OGN",
+   "num": "043",
+   "code": "OGN-043",
+   "name": "Charm",
+   "slug": "charm",
+   "rarity": "common",
+   "price_usd": 1.01,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-045-298_full.png",
+   "set": "OGN",
+   "num": "045",
+   "code": "OGN-045",
+   "name": "Defy",
+   "slug": "defy",
+   "rarity": "common",
+   "price_usd": 4.63,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-173-219_full.png",
+   "set": "UNL",
+   "num": "173",
+   "code": "UNL-173",
+   "name": "Sacrifice",
+   "slug": "sacrifice",
+   "rarity": "rare",
+   "price_usd": 1.74,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-209-298_full.png",
+   "set": "OGN",
+   "num": "209",
+   "code": "OGN-209",
+   "name": "Cull the Weak",
+   "slug": "cull-the-weak",
+   "rarity": "common",
+   "price_usd": 0.34,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-058-298_full.png",
+   "set": "OGN",
+   "num": "058",
+   "code": "OGN-058",
+   "name": "Discipline",
+   "slug": "discipline",
+   "rarity": "uncommon",
+   "price_usd": 2.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-213-298_full.png",
+   "set": "OGN",
+   "num": "213",
+   "code": "OGN-213",
+   "name": "Hidden Blade",
+   "slug": "hidden-blade",
+   "rarity": "common",
+   "price_usd": 1.08,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-224-298_full.png",
+   "set": "OGN",
+   "num": "224",
+   "code": "OGN-224",
+   "name": "Salvage",
+   "slug": "salvage",
+   "rarity": "uncommon",
+   "price_usd": 4.77,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-165-219_full.png",
+   "set": "UNL",
+   "num": "165",
+   "code": "UNL-165",
+   "name": "Shadow's Call",
+   "slug": "shadows-call",
+   "rarity": "uncommon",
+   "price_usd": 0.39,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-042-219_full.png",
+   "set": "UNL",
+   "num": "042",
+   "code": "UNL-042",
+   "name": "Back Off",
+   "slug": "back-off",
+   "rarity": "uncommon",
+   "price_usd": 0.22,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-154-221_full.png",
+   "set": "SFD",
+   "num": "154",
+   "code": "SFD-154",
+   "name": "Guards!",
+   "slug": "guards",
+   "rarity": "common",
+   "price_usd": 0.1,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-198-221_full.png",
+   "set": "SFD",
+   "num": "198",
+   "code": "SFD-198",
+   "name": "Arise!",
+   "slug": "arise",
+   "rarity": "epic",
+   "price_usd": 19.36,
+   "domains": [
+    "calm",
+    "order"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-213-221_full.png",
+   "set": "SFD",
+   "num": "213",
+   "code": "SFD-213",
+   "name": "Ornn's Forge",
+   "slug": "ornns-forge",
+   "rarity": "uncommon",
+   "price_usd": 0.11,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-290-298_full.png",
+   "set": "OGN",
+   "num": "290",
+   "code": "OGN-290",
+   "name": "The Arena's Greatest",
+   "slug": "the-arenas-greatest",
+   "rarity": "uncommon",
+   "price_usd": 0.38,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-294-298_full.png",
+   "set": "OGN",
+   "num": "294",
+   "code": "OGN-294",
+   "name": "Trifarian War Camp",
+   "slug": "trifarian-war-camp",
+   "rarity": "uncommon",
+   "price_usd": 0.27,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-042-298_full.png",
+   "set": "OGN",
+   "num": "042",
+   "code": "OGN-042",
+   "name": "Calm Rune",
+   "slug": "calm-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-214a-298_full.png",
+   "set": "OGN",
+   "num": "214a",
+   "code": "OGN-214a",
+   "name": "Order Rune",
+   "slug": "order-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-043-298_full.png",
+   "set": "OGN",
+   "num": "043",
+   "code": "OGN-043",
+   "name": "Charm",
+   "slug": "charm",
+   "rarity": "common",
+   "price_usd": 1.01,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-163-221_full.png",
+   "set": "SFD",
+   "num": "163",
+   "code": "SFD-163",
+   "name": "Deathgrip",
+   "slug": "deathgrip",
+   "rarity": "uncommon",
+   "price_usd": 0.39,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-051-221_full.png",
+   "set": "SFD",
+   "num": "051",
+   "code": "SFD-051",
+   "name": "Guardian Angel",
+   "slug": "guardian-angel",
+   "rarity": "rare",
+   "price_usd": 1.35,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-221-298_full.png",
+   "set": "OGN",
+   "num": "221",
+   "code": "OGN-221",
+   "name": "Imperial Decree",
+   "slug": "imperial-decree",
+   "rarity": "uncommon",
+   "price_usd": 0.72,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-176a-219_full.png",
+   "set": "UNL",
+   "num": "176a",
+   "code": "UNL-176a",
+   "name": "Vi, Peacekeeper",
+   "slug": "vi-peacekeeper",
+   "rarity": "rare",
+   "price_usd": 3.19,
+   "domains": [
+    "order"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 14:05:03"
+}

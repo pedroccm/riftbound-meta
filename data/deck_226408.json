@@ -1,0 +1,421 @@
+{
+ "id": 226408,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-zhong-sheng-zhi-wo-zai-fu-wen-da-xi-wang-226408",
+ "rank": "3rd",
+ "rank_num": 3,
+ "record": "",
+ "legend": "Lux, Lady of Luminosity",
+ "legend_img": "/img/cards/riftbound/OGS/ogs-021-024_tile.png",
+ "name": "重生之我在符文打戏王",
+ "player": "未中选-瞌睡回忆",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "mind",
+  "order"
+ ],
+ "players": 128,
+ "store": "宝卡游艺(后海店)",
+ "tournament": "S4 Shenzhen City Challenge",
+ "stars": 3,
+ "price_usd": 315.99,
+ "spiciness": 27,
+ "date": "2026-08-08",
+ "archetype": "Mind Order",
+ "archetype_slug": "mind-order",
+ "tournament_id": 13740,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGS/ogs-021-024_full.png",
+   "set": "OGS",
+   "num": "021",
+   "code": "OGS-021",
+   "name": "Lux, Lady of Luminosity",
+   "slug": "lux-lady-of-luminosity",
+   "rarity": "rare",
+   "price_usd": 7.07,
+   "domains": [
+    "mind",
+    "order"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGS/ogs-014-024_full.png",
+   "set": "OGS",
+   "num": "014",
+   "code": "OGS-014",
+   "name": "Lux, Crownguard",
+   "slug": "lux-crownguard",
+   "rarity": "epic",
+   "price_usd": 4.68,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-216-298_full.png",
+   "set": "OGN",
+   "num": "216",
+   "code": "OGN-216",
+   "name": "Soaring Scout",
+   "slug": "soaring-scout",
+   "rarity": "common",
+   "price_usd": 0.12,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-055-166_full.png",
+   "set": "VEN",
+   "num": "055",
+   "code": "VEN-055",
+   "name": "Applied Researchers",
+   "slug": "applied-researchers",
+   "rarity": "uncommon",
+   "price_usd": 0.18,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-110-298_full.png",
+   "set": "OGN",
+   "num": "110",
+   "code": "OGN-110",
+   "name": "Ekko, Recurrent",
+   "slug": "ekko-recurrent",
+   "rarity": "rare",
+   "price_usd": 1.39,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-120-298_full.png",
+   "set": "OGN",
+   "num": "120",
+   "code": "OGN-120",
+   "name": "Seal of Insight",
+   "slug": "seal-of-insight",
+   "rarity": "epic",
+   "price_usd": 16.43,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-212-298_full.png",
+   "set": "OGN",
+   "num": "212",
+   "code": "OGN-212",
+   "name": "Forge of the Future",
+   "slug": "forge-of-the-future",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-104-298_full.png",
+   "set": "OGN",
+   "num": "104",
+   "code": "OGN-104",
+   "name": "Retreat",
+   "slug": "retreat",
+   "rarity": "uncommon",
+   "price_usd": 0.85,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-173-219_full.png",
+   "set": "UNL",
+   "num": "173",
+   "code": "UNL-173",
+   "name": "Sacrifice",
+   "slug": "sacrifice",
+   "rarity": "rare",
+   "price_usd": 1.74,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-095-298_full.png",
+   "set": "OGN",
+   "num": "095",
+   "code": "OGN-095",
+   "name": "Stupefy",
+   "slug": "stupefy",
+   "rarity": "common",
+   "price_usd": 0.24,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-049-166_full.png",
+   "set": "VEN",
+   "num": "049",
+   "code": "VEN-049",
+   "name": "Dredge Up",
+   "slug": "dredge-up",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-165-219_full.png",
+   "set": "UNL",
+   "num": "165",
+   "code": "UNL-165",
+   "name": "Shadow's Call",
+   "slug": "shadows-call",
+   "rarity": "uncommon",
+   "price_usd": 0.39,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-115-298_full.png",
+   "set": "OGN",
+   "num": "115",
+   "code": "OGN-115",
+   "name": "Promising Future",
+   "slug": "promising-future",
+   "rarity": "rare",
+   "price_usd": 1.35,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-114-298_full.png",
+   "set": "OGN",
+   "num": "114",
+   "code": "OGN-114",
+   "name": "Progress Day",
+   "slug": "progress-day",
+   "rarity": "rare",
+   "price_usd": 1.34,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-180-219_full.png",
+   "set": "UNL",
+   "num": "180",
+   "code": "UNL-180",
+   "name": "The Ruination",
+   "slug": "the-ruination",
+   "rarity": "epic",
+   "price_usd": 14.97,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-122-298_full.png",
+   "set": "OGN",
+   "num": "122",
+   "code": "OGN-122",
+   "name": "Time Warp",
+   "slug": "time-warp",
+   "rarity": "epic",
+   "price_usd": 67.93,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-209-221_full.png",
+   "set": "SFD",
+   "num": "209",
+   "code": "SFD-209",
+   "name": "Forgotten Monument",
+   "slug": "forgotten-monument",
+   "rarity": "uncommon",
+   "price_usd": 0.16,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-287-298_full.png",
+   "set": "OGN",
+   "num": "287",
+   "code": "OGN-287",
+   "name": "Sigil of the Storm",
+   "slug": "sigil-of-the-storm",
+   "rarity": "uncommon",
+   "price_usd": 0.18,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-219-221_full.png",
+   "set": "SFD",
+   "num": "219",
+   "code": "SFD-219",
+   "name": "The Papertree",
+   "slug": "the-papertree",
+   "rarity": "uncommon",
+   "price_usd": 0.09,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 7,
+   "image": "/img/cards/riftbound/OGN/ogn-089a-298_full.png",
+   "set": "OGN",
+   "num": "089a",
+   "code": "OGN-089a",
+   "name": "Mind Rune",
+   "slug": "mind-rune",
+   "rarity": "common",
+   "price_usd": 0.1,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 5,
+   "image": "/img/cards/riftbound/OGN/ogn-214a-298_full.png",
+   "set": "OGN",
+   "num": "214a",
+   "code": "OGN-214a",
+   "name": "Order Rune",
+   "slug": "order-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-224-298_full.png",
+   "set": "OGN",
+   "num": "224",
+   "code": "OGN-224",
+   "name": "Salvage",
+   "slug": "salvage",
+   "rarity": "uncommon",
+   "price_usd": 4.77,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-175-219_full.png",
+   "set": "UNL",
+   "num": "175",
+   "code": "UNL-175",
+   "name": "Tactical Retreat",
+   "slug": "tactical-retreat",
+   "rarity": "rare",
+   "price_usd": 0.21,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-070-221_full.png",
+   "set": "SFD",
+   "num": "070",
+   "code": "SFD-070",
+   "name": "Wages of Pain",
+   "slug": "wages-of-pain",
+   "rarity": "common",
+   "price_usd": 0.16,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-169-219_full.png",
+   "set": "UNL",
+   "num": "169",
+   "code": "UNL-169",
+   "name": "Ashe, Focused",
+   "slug": "ashe-focused",
+   "rarity": "rare",
+   "price_usd": 1.79,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-069-219_full.png",
+   "set": "UNL",
+   "num": "069",
+   "code": "UNL-069",
+   "name": "Sprite Burst",
+   "slug": "sprite-burst",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "mind"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 13:58:38"
+}

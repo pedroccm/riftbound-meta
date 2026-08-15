@@ -1,0 +1,422 @@
+{
+ "id": 224444,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-wu-qing-lian-da-224444",
+ "rank": "2nd",
+ "rank_num": 2,
+ "record": "",
+ "legend": "Jax, Grandmaster at Arms",
+ "legend_img": "/img/cards/riftbound/SFD/sfd-245-221_tile.png",
+ "name": "无情连打",
+ "player": "Joyspаce.吨吨",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "body",
+  "calm"
+ ],
+ "players": 17,
+ "store": "joyspace",
+ "tournament": "Riftbound Slim Pack Tournament",
+ "stars": 2,
+ "price_usd": 86.49,
+ "spiciness": 49,
+ "date": "2026-08-06",
+ "archetype": "Body Calm",
+ "archetype_slug": "body-calm",
+ "tournament_id": 13703,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-245-221_full.png",
+   "set": "SFD",
+   "num": "245",
+   "code": "SFD-245",
+   "name": "Jax, Grandmaster at Arms",
+   "slug": "jax-grandmaster-at-arms",
+   "rarity": "rare",
+   "price_usd": 0.25,
+   "domains": [
+    "calm",
+    "body"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-054a-221_full.png",
+   "set": "SFD",
+   "num": "054a",
+   "code": "SFD-054a",
+   "name": "Jax, Unmatched",
+   "slug": "jax-unmatched",
+   "rarity": "rare",
+   "price_usd": 0.18,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-036-221_full.png",
+   "set": "SFD",
+   "num": "036",
+   "code": "SFD-036",
+   "name": "Lonely Poro",
+   "slug": "lonely-poro",
+   "rarity": "common",
+   "price_usd": 0.19,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-028-166_full.png",
+   "set": "VEN",
+   "num": "028",
+   "code": "VEN-028",
+   "name": "Mournful Witness",
+   "slug": "mournful-witness",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-098-221_full.png",
+   "set": "SFD",
+   "num": "098",
+   "code": "SFD-098",
+   "name": "Sea Monkey",
+   "slug": "sea-monkey",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-132-298_full.png",
+   "set": "OGN",
+   "num": "132",
+   "code": "OGN-132",
+   "name": "First Mate",
+   "slug": "first-mate",
+   "rarity": "common",
+   "price_usd": 0.25,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-097-219_full.png",
+   "set": "UNL",
+   "num": "097",
+   "code": "UNL-097",
+   "name": "Kinkou Initiate",
+   "slug": "kinkou-initiate",
+   "rarity": "common",
+   "price_usd": 0.11,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-038-166_full.png",
+   "set": "VEN",
+   "num": "038",
+   "code": "VEN-038",
+   "name": "Akali, Silent",
+   "slug": "akali-silent",
+   "rarity": "rare",
+   "price_usd": 0.27,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-108-221_full.png",
+   "set": "SFD",
+   "num": "108",
+   "code": "SFD-108",
+   "name": "Warmog's Armor",
+   "slug": "warmogs-armor",
+   "rarity": "uncommon",
+   "price_usd": 0.13,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-042-221_full.png",
+   "set": "SFD",
+   "num": "042",
+   "code": "SFD-042",
+   "name": "Brutalizer",
+   "slug": "brutalizer",
+   "rarity": "uncommon",
+   "price_usd": 0.29,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-051-221_full.png",
+   "set": "SFD",
+   "num": "051",
+   "code": "SFD-051",
+   "name": "Guardian Angel",
+   "slug": "guardian-angel",
+   "rarity": "rare",
+   "price_usd": 1.35,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-045-298_full.png",
+   "set": "OGN",
+   "num": "045",
+   "code": "OGN-045",
+   "name": "Defy",
+   "slug": "defy",
+   "rarity": "common",
+   "price_usd": 4.63,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-097-221_full.png",
+   "set": "SFD",
+   "num": "097",
+   "code": "SFD-097",
+   "name": "Punch First",
+   "slug": "punch-first",
+   "rarity": "common",
+   "price_usd": 0.21,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-128-298_full.png",
+   "set": "OGN",
+   "num": "128",
+   "code": "OGN-128",
+   "name": "Challenge",
+   "slug": "challenge",
+   "rarity": "common",
+   "price_usd": 0.21,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-194-221_full.png",
+   "set": "SFD",
+   "num": "194",
+   "code": "SFD-194",
+   "name": "Counter Strike",
+   "slug": "counter-strike",
+   "rarity": "epic",
+   "price_usd": 0.83,
+   "domains": [
+    "calm",
+    "body"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-058-298_full.png",
+   "set": "OGN",
+   "num": "058",
+   "code": "OGN-058",
+   "name": "Discipline",
+   "slug": "discipline",
+   "rarity": "uncommon",
+   "price_usd": 2.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-213-221_full.png",
+   "set": "SFD",
+   "num": "213",
+   "code": "SFD-213",
+   "name": "Ornn's Forge",
+   "slug": "ornns-forge",
+   "rarity": "uncommon",
+   "price_usd": 0.11,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-164-166_full.png",
+   "set": "VEN",
+   "num": "164",
+   "code": "VEN-164",
+   "name": "Sandswept Tomb",
+   "slug": "sandswept-tomb",
+   "rarity": "uncommon",
+   "price_usd": 0.1,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-218-221_full.png",
+   "set": "SFD",
+   "num": "218",
+   "code": "SFD-218",
+   "name": "Sunken Temple",
+   "slug": "sunken-temple",
+   "rarity": "uncommon",
+   "price_usd": 0.15,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-126-298_full.png",
+   "set": "OGN",
+   "num": "126",
+   "code": "OGN-126",
+   "name": "Body Rune",
+   "slug": "body-rune",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-042-298_full.png",
+   "set": "OGN",
+   "num": "042",
+   "code": "OGN-042",
+   "name": "Calm Rune",
+   "slug": "calm-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-043-221_full.png",
+   "set": "SFD",
+   "num": "043",
+   "code": "SFD-043",
+   "name": "Emperor's Divide",
+   "slug": "emperors-divide",
+   "rarity": "uncommon",
+   "price_usd": 0.34,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-034-166_full.png",
+   "set": "VEN",
+   "num": "034",
+   "code": "VEN-034",
+   "name": "Resonating Strike",
+   "slug": "resonating-strike",
+   "rarity": "uncommon",
+   "price_usd": 0.12,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-109-221_full.png",
+   "set": "SFD",
+   "num": "109",
+   "code": "SFD-109",
+   "name": "Akshan, Mischievous",
+   "slug": "akshan-mischievous",
+   "rarity": "rare",
+   "price_usd": 1.86,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-048-221_full.png",
+   "set": "SFD",
+   "num": "048",
+   "code": "SFD-048",
+   "name": "Stellacorn Herder",
+   "slug": "stellacorn-herder",
+   "rarity": "uncommon",
+   "price_usd": 1.5,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-120-219_full.png",
+   "set": "UNL",
+   "num": "120",
+   "code": "UNL-120",
+   "name": "Rengar, Trophy Hunter",
+   "slug": "rengar-trophy-hunter",
+   "rarity": "epic",
+   "price_usd": 22.0,
+   "domains": [
+    "body"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 14:04:35"
+}

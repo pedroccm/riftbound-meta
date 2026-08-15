@@ -1,0 +1,587 @@
+{
+ "id": 225529,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-225529",
+ "rank": "4th",
+ "rank_num": 4,
+ "record": "10-2-1",
+ "legend": "Kennen, Heart of the Tempest",
+ "legend_img": "/img/cards/riftbound/VEN/ven-155-166_tile.png",
+ "name": "Kennen, Heart of the Tempest",
+ "player": "RussTCG",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "chaos",
+  "order"
+ ],
+ "players": 594,
+ "store": "Jeux Face a Face",
+ "tournament": "Riftbound Showdown Ottawa",
+ "stars": 3,
+ "price_usd": 552.28,
+ "spiciness": 34,
+ "date": "2026-08-08",
+ "archetype": "Chaos Order",
+ "archetype_slug": "chaos-order",
+ "tournament_id": 13733,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-155-166_full.png",
+   "set": "VEN",
+   "num": "155",
+   "code": "VEN-155",
+   "name": "Kennen, Heart of the Tempest",
+   "slug": "kennen-heart-of-the-tempest",
+   "rarity": "rare",
+   "price_usd": 0.13,
+   "domains": [
+    "order",
+    "chaos"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-113-166_full.png",
+   "set": "VEN",
+   "num": "113",
+   "code": "VEN-113",
+   "name": "Kennen, Storm of Shuriken",
+   "slug": "kennen-storm-of-shuriken",
+   "rarity": "epic",
+   "price_usd": 3.96,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-199-298_full.png",
+   "set": "OGN",
+   "num": "199",
+   "code": "OGN-199",
+   "name": "Tideturner",
+   "slug": "tideturner",
+   "rarity": "rare",
+   "price_usd": 3.14,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-185-298_full.png",
+   "set": "OGN",
+   "num": "185",
+   "code": "OGN-185",
+   "name": "Traveling Merchant",
+   "slug": "traveling-merchant",
+   "rarity": "uncommon",
+   "price_usd": 0.23,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-140-221_full.png",
+   "set": "SFD",
+   "num": "140",
+   "code": "SFD-140",
+   "name": "Fizz, Trickster",
+   "slug": "fizz-trickster",
+   "rarity": "rare",
+   "price_usd": 11.51,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-194-298_full.png",
+   "set": "OGN",
+   "num": "194",
+   "code": "OGN-194",
+   "name": "Nocturne, Horrifying",
+   "slug": "nocturne-horrifying",
+   "rarity": "rare",
+   "price_usd": 4.88,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-104-166_full.png",
+   "set": "VEN",
+   "num": "104",
+   "code": "VEN-104",
+   "name": "Tail-Cloaked Matriarch",
+   "slug": "tail-cloaked-matriarch",
+   "rarity": "uncommon",
+   "price_usd": 0.17,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-147-219_full.png",
+   "set": "UNL",
+   "num": "147",
+   "code": "UNL-147",
+   "name": "Baron Nashor",
+   "slug": "baron-nashor",
+   "rarity": "epic",
+   "price_usd": 18.25,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-195-298_full.png",
+   "set": "OGN",
+   "num": "195",
+   "code": "OGN-195",
+   "name": "Rhasa the Sunderer",
+   "slug": "rhasa-the-sunderer",
+   "rarity": "rare",
+   "price_usd": 4.52,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-204-298_full.png",
+   "set": "OGN",
+   "num": "204",
+   "code": "OGN-204",
+   "name": "Seal of Discord",
+   "slug": "seal-of-discord",
+   "rarity": "epic",
+   "price_usd": 52.86,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-150-221_full.png",
+   "set": "SFD",
+   "num": "150",
+   "code": "SFD-150",
+   "name": "Last Rites",
+   "slug": "last-rites",
+   "rarity": "epic",
+   "price_usd": 56.9,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-169-298_full.png",
+   "set": "OGN",
+   "num": "169",
+   "code": "OGN-169",
+   "name": "Gust",
+   "slug": "gust",
+   "rarity": "common",
+   "price_usd": 0.17,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-156-166_full.png",
+   "set": "VEN",
+   "num": "156",
+   "code": "VEN-156",
+   "name": "Lightning Rush",
+   "slug": "lightning-rush",
+   "rarity": "epic",
+   "price_usd": 16.39,
+   "domains": [
+    "order",
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-183-298_full.png",
+   "set": "OGN",
+   "num": "183",
+   "code": "OGN-183",
+   "name": "Stacked Deck",
+   "slug": "stacked-deck",
+   "rarity": "uncommon",
+   "price_usd": 11.81,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-136-221_full.png",
+   "set": "SFD",
+   "num": "136",
+   "code": "SFD-136",
+   "name": "Hard Bargain",
+   "slug": "hard-bargain",
+   "rarity": "uncommon",
+   "price_usd": 1.47,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-213-298_full.png",
+   "set": "OGN",
+   "num": "213",
+   "code": "OGN-213",
+   "name": "Hidden Blade",
+   "slug": "hidden-blade",
+   "rarity": "common",
+   "price_usd": 1.08,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-172-298_full.png",
+   "set": "OGN",
+   "num": "172",
+   "code": "OGN-172",
+   "name": "Rebuke",
+   "slug": "rebuke",
+   "rarity": "common",
+   "price_usd": 0.27,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-173-298_full.png",
+   "set": "OGN",
+   "num": "173",
+   "code": "OGN-173",
+   "name": "Ride the Wind",
+   "slug": "ride-the-wind",
+   "rarity": "common",
+   "price_usd": 1.25,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-145-221_full.png",
+   "set": "SFD",
+   "num": "145",
+   "code": "SFD-145",
+   "name": "Switcheroo",
+   "slug": "switcheroo",
+   "rarity": "rare",
+   "price_usd": 1.61,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-103-166_full.png",
+   "set": "VEN",
+   "num": "103",
+   "code": "VEN-103",
+   "name": "Shadows of the Past",
+   "slug": "shadows-of-the-past",
+   "rarity": "uncommon",
+   "price_usd": 0.09,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-128-219_full.png",
+   "set": "UNL",
+   "num": "128",
+   "code": "UNL-128",
+   "name": "Star-Crossed",
+   "slug": "star-crossed",
+   "rarity": "common",
+   "price_usd": 0.19,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-100-166_full.png",
+   "set": "VEN",
+   "num": "100",
+   "code": "VEN-100",
+   "name": "Up from the Deep",
+   "slug": "up-from-the-deep",
+   "rarity": "common",
+   "price_usd": 0.13,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-198-298_full.png",
+   "set": "OGN",
+   "num": "198",
+   "code": "OGN-198",
+   "name": "The Harrowing",
+   "slug": "the-harrowing",
+   "rarity": "rare",
+   "price_usd": 0.41,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-210-219_full.png",
+   "set": "UNL",
+   "num": "210",
+   "code": "UNL-210",
+   "name": "Forbidding Waste",
+   "slug": "forbidding-waste",
+   "rarity": "uncommon",
+   "price_usd": 0.09,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-212-221_full.png",
+   "set": "SFD",
+   "num": "212",
+   "code": "SFD-212",
+   "name": "Minefield",
+   "slug": "minefield",
+   "rarity": "uncommon",
+   "price_usd": 0.09,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-298-298_full.png",
+   "set": "OGN",
+   "num": "298",
+   "code": "OGN-298",
+   "name": "Zaun Warrens",
+   "slug": "zaun-warrens",
+   "rarity": "uncommon",
+   "price_usd": 0.21,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 9,
+   "image": "/img/cards/riftbound/OGN/ogn-166-298_full.png",
+   "set": "OGN",
+   "num": "166",
+   "code": "OGN-166",
+   "name": "Chaos Rune",
+   "slug": "chaos-rune",
+   "rarity": "common",
+   "price_usd": 0.08,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-214a-298_full.png",
+   "set": "OGN",
+   "num": "214a",
+   "code": "OGN-214a",
+   "name": "Order Rune",
+   "slug": "order-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-169-298_full.png",
+   "set": "OGN",
+   "num": "169",
+   "code": "OGN-169",
+   "name": "Gust",
+   "slug": "gust",
+   "rarity": "common",
+   "price_usd": 0.17,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-131-219_full.png",
+   "set": "UNL",
+   "num": "131",
+   "code": "UNL-131",
+   "name": "Abandon",
+   "slug": "abandon",
+   "rarity": "uncommon",
+   "price_usd": 0.34,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-224-298_full.png",
+   "set": "OGN",
+   "num": "224",
+   "code": "OGN-224",
+   "name": "Salvage",
+   "slug": "salvage",
+   "rarity": "uncommon",
+   "price_usd": 4.77,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-201-298_full.png",
+   "set": "OGN",
+   "num": "201",
+   "code": "OGN-201",
+   "name": "Invert Timelines",
+   "slug": "invert-timelines",
+   "rarity": "epic",
+   "price_usd": 33.76,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-150-221_full.png",
+   "set": "SFD",
+   "num": "150",
+   "code": "SFD-150",
+   "name": "Last Rites",
+   "slug": "last-rites",
+   "rarity": "epic",
+   "price_usd": 56.9,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-102-166_full.png",
+   "set": "VEN",
+   "num": "102",
+   "code": "VEN-102",
+   "name": "Ravenbloom Prefect",
+   "slug": "ravenbloom-prefect",
+   "rarity": "common",
+   "price_usd": 0.18,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-100-166_full.png",
+   "set": "VEN",
+   "num": "100",
+   "code": "VEN-100",
+   "name": "Up from the Deep",
+   "slug": "up-from-the-deep",
+   "rarity": "common",
+   "price_usd": 0.13,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-244-298_full.png",
+   "set": "OGN",
+   "num": "244",
+   "code": "OGN-244",
+   "name": "Divine Judgment",
+   "slug": "divine-judgment",
+   "rarity": "epic",
+   "price_usd": 12.03,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-147-221_full.png",
+   "set": "SFD",
+   "num": "147",
+   "code": "SFD-147",
+   "name": "Downwell",
+   "slug": "downwell",
+   "rarity": "epic",
+   "price_usd": 7.61,
+   "domains": [
+    "chaos"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 13:57:24"
+}

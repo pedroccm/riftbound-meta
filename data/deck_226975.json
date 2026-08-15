@@ -1,0 +1,466 @@
+{
+ "id": 226975,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-yao-zi1-1-226975",
+ "rank": "Top4",
+ "rank_num": 99,
+ "record": "",
+ "legend": "Shen, Eye of Twilight",
+ "legend_img": "/img/cards/riftbound/VEN/ven-193-166_tile.png",
+ "name": "腰子1.1",
+ "player": "XXT.守赢王",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "calm",
+  "order"
+ ],
+ "players": 31,
+ "store": "吹火岛卡牌桌游",
+ "tournament": "August Anniversary Tournament",
+ "stars": 2,
+ "price_usd": 154.14,
+ "spiciness": 65,
+ "date": "2026-08-09",
+ "archetype": "Calm Order",
+ "archetype_slug": "calm-order",
+ "tournament_id": 13753,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-193-166_full.png",
+   "set": "VEN",
+   "num": "193",
+   "code": "VEN-193",
+   "name": "Shen, Eye of Twilight",
+   "slug": "shen-eye-of-twilight",
+   "rarity": "rare",
+   "price_usd": 0.09,
+   "domains": [
+    "calm",
+    "order"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-241-298_full.png",
+   "set": "OGN",
+   "num": "241",
+   "code": "OGN-241",
+   "name": "Shen, Kinkou",
+   "slug": "shen-kinkou",
+   "rarity": "rare",
+   "price_usd": 0.92,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-117-166_full.png",
+   "set": "VEN",
+   "num": "117",
+   "code": "VEN-117",
+   "name": "Disciple of Shen",
+   "slug": "disciple-of-shen",
+   "rarity": "common",
+   "price_usd": 0.12,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-052-298_full.png",
+   "set": "OGN",
+   "num": "052",
+   "code": "OGN-052",
+   "name": "Stalwart Poro",
+   "slug": "stalwart-poro",
+   "rarity": "common",
+   "price_usd": 0.14,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-053-221_full.png",
+   "set": "SFD",
+   "num": "053",
+   "code": "SFD-053",
+   "name": "Janna, Savior",
+   "slug": "janna-savior",
+   "rarity": "rare",
+   "price_usd": 0.47,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-135a-166_full.png",
+   "set": "VEN",
+   "num": "135a",
+   "code": "VEN-135a",
+   "name": "Kennen, Keeper of Balance",
+   "slug": "kennen-keeper-of-balance",
+   "rarity": "rare",
+   "price_usd": 0.18,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-232-298_full.png",
+   "set": "OGN",
+   "num": "232",
+   "code": "OGN-232",
+   "name": "Fiora, Victorious",
+   "slug": "fiora-victorious",
+   "rarity": "rare",
+   "price_usd": 1.83,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-073-298_full.png",
+   "set": "OGN",
+   "num": "073",
+   "code": "OGN-073",
+   "name": "Sona, Harmonious",
+   "slug": "sona-harmonious",
+   "rarity": "epic",
+   "price_usd": 4.53,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-176a-219_full.png",
+   "set": "UNL",
+   "num": "176a",
+   "code": "UNL-176a",
+   "name": "Vi, Peacekeeper",
+   "slug": "vi-peacekeeper",
+   "rarity": "rare",
+   "price_usd": 3.19,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-044-166_full.png",
+   "set": "VEN",
+   "num": "044",
+   "code": "VEN-044",
+   "name": "Astral Heron",
+   "slug": "astral-heron",
+   "rarity": "epic",
+   "price_usd": 19.37,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-060-219_full.png",
+   "set": "UNL",
+   "num": "060",
+   "code": "UNL-060",
+   "name": "Vilemaw",
+   "slug": "vilemaw",
+   "rarity": "epic",
+   "price_usd": 20.3,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-027-166_full.png",
+   "set": "VEN",
+   "num": "027",
+   "code": "VEN-027",
+   "name": "Hand Hammer",
+   "slug": "hand-hammer",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-043-298_full.png",
+   "set": "OGN",
+   "num": "043",
+   "code": "OGN-043",
+   "name": "Charm",
+   "slug": "charm",
+   "rarity": "common",
+   "price_usd": 1.01,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-045-298_full.png",
+   "set": "OGN",
+   "num": "045",
+   "code": "OGN-045",
+   "name": "Defy",
+   "slug": "defy",
+   "rarity": "common",
+   "price_usd": 4.63,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-058-298_full.png",
+   "set": "OGN",
+   "num": "058",
+   "code": "OGN-058",
+   "name": "Discipline",
+   "slug": "discipline",
+   "rarity": "uncommon",
+   "price_usd": 2.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-043-221_full.png",
+   "set": "SFD",
+   "num": "043",
+   "code": "SFD-043",
+   "name": "Emperor's Divide",
+   "slug": "emperors-divide",
+   "rarity": "uncommon",
+   "price_usd": 0.34,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-126-166_full.png",
+   "set": "VEN",
+   "num": "126",
+   "code": "VEN-126",
+   "name": "Ki Barrier",
+   "slug": "ki-barrier",
+   "rarity": "uncommon",
+   "price_usd": 0.15,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-048-298_full.png",
+   "set": "OGN",
+   "num": "048",
+   "code": "OGN-048",
+   "name": "Meditation",
+   "slug": "meditation",
+   "rarity": "common",
+   "price_usd": 0.11,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-042-219_full.png",
+   "set": "UNL",
+   "num": "042",
+   "code": "UNL-042",
+   "name": "Back Off",
+   "slug": "back-off",
+   "rarity": "uncommon",
+   "price_usd": 0.22,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-159-166_full.png",
+   "set": "VEN",
+   "num": "159",
+   "code": "VEN-159",
+   "name": "Kinkou Temple",
+   "slug": "kinkou-temple",
+   "rarity": "uncommon",
+   "price_usd": 0.06,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-288-298_full.png",
+   "set": "OGN",
+   "num": "288",
+   "code": "OGN-288",
+   "name": "Startipped Peak",
+   "slug": "startipped-peak",
+   "rarity": "uncommon",
+   "price_usd": 0.26,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-294-298_full.png",
+   "set": "OGN",
+   "num": "294",
+   "code": "OGN-294",
+   "name": "Trifarian War Camp",
+   "slug": "trifarian-war-camp",
+   "rarity": "uncommon",
+   "price_usd": 0.27,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-042-298_full.png",
+   "set": "OGN",
+   "num": "042",
+   "code": "OGN-042",
+   "name": "Calm Rune",
+   "slug": "calm-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-214a-298_full.png",
+   "set": "OGN",
+   "num": "214a",
+   "code": "OGN-214a",
+   "name": "Order Rune",
+   "slug": "order-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-043-298_full.png",
+   "set": "OGN",
+   "num": "043",
+   "code": "OGN-043",
+   "name": "Charm",
+   "slug": "charm",
+   "rarity": "common",
+   "price_usd": 1.01,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-040-166_full.png",
+   "set": "VEN",
+   "num": "040",
+   "code": "VEN-040",
+   "name": "Decree of Focus",
+   "slug": "decree-of-focus",
+   "rarity": "rare",
+   "price_usd": 0.24,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-131-166_full.png",
+   "set": "VEN",
+   "num": "131",
+   "code": "VEN-131",
+   "name": "Decree of Unity",
+   "slug": "decree-of-unity",
+   "rarity": "rare",
+   "price_usd": 0.2,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-224-298_full.png",
+   "set": "OGN",
+   "num": "224",
+   "code": "OGN-224",
+   "name": "Salvage",
+   "slug": "salvage",
+   "rarity": "uncommon",
+   "price_usd": 4.77,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-232-298_full.png",
+   "set": "OGN",
+   "num": "232",
+   "code": "OGN-232",
+   "name": "Fiora, Victorious",
+   "slug": "fiora-victorious",
+   "rarity": "rare",
+   "price_usd": 1.83,
+   "domains": [
+    "order"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 13:52:06"
+}

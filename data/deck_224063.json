@@ -1,0 +1,497 @@
+{
+ "id": 224063,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-reksai-void-burrower-224063",
+ "rank": "3rd",
+ "rank_num": 3,
+ "record": "",
+ "legend": "Reksai, Void Burrower",
+ "legend_img": "/img/cards/riftbound/SFD/sfd-187-221_tile.png",
+ "name": "Reksai, Void Burrower",
+ "player": "Frobei",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "fury",
+  "order"
+ ],
+ "players": 64,
+ "store": "Circle TCG",
+ "tournament": "League Cup #2 — Cycle 1",
+ "stars": 3,
+ "price_usd": 145.01,
+ "spiciness": 38,
+ "date": "2026-08-03",
+ "archetype": "Fury Order",
+ "archetype_slug": "fury-order",
+ "tournament_id": 13685,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-187-221_full.png",
+   "set": "SFD",
+   "num": "187",
+   "code": "SFD-187",
+   "name": "Reksai, Void Burrower",
+   "slug": "reksai-void-burrower",
+   "rarity": "showcase",
+   "price_usd": 0.21,
+   "domains": [
+    "fury",
+    "order"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-029-221_full.png",
+   "set": "SFD",
+   "num": "029",
+   "code": "SFD-029",
+   "name": "Rek'Sai, Breacher",
+   "slug": "reksai-breacher",
+   "rarity": "showcase",
+   "price_usd": 11.72,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-153-219_full.png",
+   "set": "UNL",
+   "num": "153",
+   "code": "UNL-153",
+   "name": "Carrion Dredger",
+   "slug": "carrion-dredger",
+   "rarity": "common",
+   "price_usd": 0.08,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-155-221_full.png",
+   "set": "SFD",
+   "num": "155",
+   "code": "SFD-155",
+   "name": "Honest Broker",
+   "slug": "honest-broker",
+   "rarity": "common",
+   "price_usd": 0.15,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-002-219_full.png",
+   "set": "UNL",
+   "num": "002",
+   "code": "UNL-002",
+   "name": "Inferna",
+   "slug": "inferna",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-128-166_full.png",
+   "set": "VEN",
+   "num": "128",
+   "code": "VEN-128",
+   "name": "Noxian Emissary",
+   "slug": "noxian-emissary",
+   "rarity": "uncommon",
+   "price_usd": 0.12,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-124-166_full.png",
+   "set": "VEN",
+   "num": "124",
+   "code": "VEN-124",
+   "name": "Escaped Grayback",
+   "slug": "escaped-grayback",
+   "rarity": "uncommon",
+   "price_usd": 0.13,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-211-298_full.png",
+   "set": "OGN",
+   "num": "211",
+   "code": "OGN-211",
+   "name": "Faithful Manufactor",
+   "slug": "faithful-manufactor",
+   "rarity": "common",
+   "price_usd": 0.14,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-028-219_full.png",
+   "set": "UNL",
+   "num": "028",
+   "code": "UNL-028",
+   "name": "Pyke, Dockside Butcher",
+   "slug": "pyke-dockside-butcher",
+   "rarity": "epic",
+   "price_usd": 12.03,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-020-166_full.png",
+   "set": "VEN",
+   "num": "020",
+   "code": "VEN-020",
+   "name": "Twilight Reveler",
+   "slug": "twilight-reveler",
+   "rarity": "rare",
+   "price_usd": 0.26,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-012-298_full.png",
+   "set": "OGN",
+   "num": "012",
+   "code": "OGN-012",
+   "name": "Noxus Hopeful",
+   "slug": "noxus-hopeful",
+   "rarity": "common",
+   "price_usd": 0.43,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-021-221_full.png",
+   "set": "SFD",
+   "num": "021",
+   "code": "SFD-021",
+   "name": "Ferrous Forerunner",
+   "slug": "ferrous-forerunner",
+   "rarity": "rare",
+   "price_usd": 3.82,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-175-221_full.png",
+   "set": "SFD",
+   "num": "175",
+   "code": "SFD-175",
+   "name": "Undertitan",
+   "slug": "undertitan",
+   "rarity": "rare",
+   "price_usd": 0.35,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-019-219_full.png",
+   "set": "UNL",
+   "num": "019",
+   "code": "UNL-019",
+   "name": "Blighted Battleaxe",
+   "slug": "blighted-battleaxe",
+   "rarity": "rare",
+   "price_usd": 0.34,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-004-298_full.png",
+   "set": "OGN",
+   "num": "004",
+   "code": "OGN-004",
+   "name": "Cleave",
+   "slug": "cleave",
+   "rarity": "common",
+   "price_usd": 0.18,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-209-298_full.png",
+   "set": "OGN",
+   "num": "209",
+   "code": "OGN-209",
+   "name": "Cull the Weak",
+   "slug": "cull-the-weak",
+   "rarity": "common",
+   "price_usd": 0.34,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-029-298_full.png",
+   "set": "OGN",
+   "num": "029",
+   "code": "OGN-029",
+   "name": "Falling Star",
+   "slug": "falling-star",
+   "rarity": "rare",
+   "price_usd": 19.64,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-213-298_full.png",
+   "set": "OGN",
+   "num": "213",
+   "code": "OGN-213",
+   "name": "Hidden Blade",
+   "slug": "hidden-blade",
+   "rarity": "common",
+   "price_usd": 1.08,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-224-298_full.png",
+   "set": "OGN",
+   "num": "224",
+   "code": "OGN-224",
+   "name": "Salvage",
+   "slug": "salvage",
+   "rarity": "uncommon",
+   "price_usd": 4.77,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-188-221_full.png",
+   "set": "SFD",
+   "num": "188",
+   "code": "SFD-188",
+   "name": "Void Rush",
+   "slug": "void-rush",
+   "rarity": "epic",
+   "price_usd": 14.63,
+   "domains": [
+    "fury",
+    "order"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-210-219_full.png",
+   "set": "UNL",
+   "num": "210",
+   "code": "UNL-210",
+   "name": "Forbidding Waste",
+   "slug": "forbidding-waste",
+   "rarity": "uncommon",
+   "price_usd": 0.09,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-291-298_full.png",
+   "set": "OGN",
+   "num": "291",
+   "code": "OGN-291",
+   "name": "The Candlelit Sanctum",
+   "slug": "the-candlelit-sanctum",
+   "rarity": "uncommon",
+   "price_usd": 0.24,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-298-298_full.png",
+   "set": "OGN",
+   "num": "298",
+   "code": "OGN-298",
+   "name": "Zaun Warrens",
+   "slug": "zaun-warrens",
+   "rarity": "uncommon",
+   "price_usd": 0.21,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 7,
+   "image": "/img/cards/riftbound/OGN/ogn-007a-298_full.png",
+   "set": "OGN",
+   "num": "007a",
+   "code": "OGN-007a",
+   "name": "Fury Rune",
+   "slug": "fury-rune",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 5,
+   "image": "/img/cards/riftbound/OGN/ogn-214a-298_full.png",
+   "set": "OGN",
+   "num": "214a",
+   "code": "OGN-214a",
+   "name": "Order Rune",
+   "slug": "order-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-209-298_full.png",
+   "set": "OGN",
+   "num": "209",
+   "code": "OGN-209",
+   "name": "Cull the Weak",
+   "slug": "cull-the-weak",
+   "rarity": "common",
+   "price_usd": 0.34,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-131-166_full.png",
+   "set": "VEN",
+   "num": "131",
+   "code": "VEN-131",
+   "name": "Decree of Unity",
+   "slug": "decree-of-unity",
+   "rarity": "rare",
+   "price_usd": 0.2,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-212-298_full.png",
+   "set": "OGN",
+   "num": "212",
+   "code": "OGN-212",
+   "name": "Forge of the Future",
+   "slug": "forge-of-the-future",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-224-298_full.png",
+   "set": "OGN",
+   "num": "224",
+   "code": "OGN-224",
+   "name": "Salvage",
+   "slug": "salvage",
+   "rarity": "uncommon",
+   "price_usd": 4.77,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-020-166_full.png",
+   "set": "VEN",
+   "num": "020",
+   "code": "VEN-020",
+   "name": "Twilight Reveler",
+   "slug": "twilight-reveler",
+   "rarity": "rare",
+   "price_usd": 0.26,
+   "domains": [
+    "fury"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-021-221_full.png",
+   "set": "SFD",
+   "num": "021",
+   "code": "SFD-021",
+   "name": "Ferrous Forerunner",
+   "slug": "ferrous-forerunner",
+   "rarity": "rare",
+   "price_usd": 3.82,
+   "domains": [
+    "fury"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 14:09:43"
+}

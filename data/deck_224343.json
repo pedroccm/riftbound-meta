@@ -1,0 +1,407 @@
+{
+ "id": 224343,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-gou-tou-224343",
+ "rank": "2nd",
+ "rank_num": 2,
+ "record": "",
+ "legend": "Nasus, Curator of the Sands",
+ "legend_img": "/img/cards/riftbound/VEN/ven-192-166_tile.png",
+ "name": "狗头",
+ "player": "珈",
+ "meta": "Vendetta",
+ "card_count": 56,
+ "domains": [
+  "calm",
+  "mind"
+ ],
+ "players": 13,
+ "store": "沉淀桌游馆",
+ "tournament": "Riftbound Tournament - BO1",
+ "stars": 1,
+ "price_usd": 234.2,
+ "spiciness": 33,
+ "date": "2026-08-05",
+ "archetype": "Calm Mind",
+ "archetype_slug": "calm-mind",
+ "tournament_id": 13692,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-192-166_full.png",
+   "set": "VEN",
+   "num": "192",
+   "code": "VEN-192",
+   "name": "Nasus, Curator of the Sands",
+   "slug": "nasus-curator-of-the-sands",
+   "rarity": "rare",
+   "price_usd": 0.09,
+   "domains": [
+    "calm",
+    "mind"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-046a-166_full.png",
+   "set": "VEN",
+   "num": "046a",
+   "code": "VEN-046a",
+   "name": "Nasus, Ascended",
+   "slug": "nasus-ascended",
+   "rarity": "epic",
+   "price_usd": 0.79,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-043-166_full.png",
+   "set": "VEN",
+   "num": "043",
+   "code": "VEN-043",
+   "name": "Steel Paws",
+   "slug": "steel-paws",
+   "rarity": "rare",
+   "price_usd": 0.32,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-036-221_full.png",
+   "set": "SFD",
+   "num": "036",
+   "code": "SFD-036",
+   "name": "Lonely Poro",
+   "slug": "lonely-poro",
+   "rarity": "common",
+   "price_usd": 0.19,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-103-298_full.png",
+   "set": "OGN",
+   "num": "103",
+   "code": "OGN-103",
+   "name": "Ravenbloom Student",
+   "slug": "ravenbloom-student",
+   "rarity": "uncommon",
+   "price_usd": 0.28,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-053-219_full.png",
+   "set": "UNL",
+   "num": "053",
+   "code": "UNL-053",
+   "name": "Scuttle Crab",
+   "slug": "scuttle-crab",
+   "rarity": "rare",
+   "price_usd": 3.42,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-044-166_full.png",
+   "set": "VEN",
+   "num": "044",
+   "code": "VEN-044",
+   "name": "Astral Heron",
+   "slug": "astral-heron",
+   "rarity": "epic",
+   "price_usd": 19.37,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-075-298_full.png",
+   "set": "OGN",
+   "num": "075",
+   "code": "OGN-075",
+   "name": "Tasty Faefolk",
+   "slug": "tasty-faefolk",
+   "rarity": "rare",
+   "price_usd": 1.17,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-116-298_full.png",
+   "set": "OGN",
+   "num": "116",
+   "code": "OGN-116",
+   "name": "Thousand-Tailed Watcher",
+   "slug": "thousand-tailed-watcher",
+   "rarity": "rare",
+   "price_usd": 28.91,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-082-298_full.png",
+   "set": "OGN",
+   "num": "082",
+   "code": "OGN-082",
+   "name": "Whiteflame Protector",
+   "slug": "whiteflame-protector",
+   "rarity": "epic",
+   "price_usd": 3.91,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-043-298_full.png",
+   "set": "OGN",
+   "num": "043",
+   "code": "OGN-043",
+   "name": "Charm",
+   "slug": "charm",
+   "rarity": "common",
+   "price_usd": 1.01,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-045-298_full.png",
+   "set": "OGN",
+   "num": "045",
+   "code": "OGN-045",
+   "name": "Defy",
+   "slug": "defy",
+   "rarity": "common",
+   "price_usd": 4.63,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-095-298_full.png",
+   "set": "OGN",
+   "num": "095",
+   "code": "OGN-095",
+   "name": "Stupefy",
+   "slug": "stupefy",
+   "rarity": "common",
+   "price_usd": 0.24,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-058-298_full.png",
+   "set": "OGN",
+   "num": "058",
+   "code": "OGN-058",
+   "name": "Discipline",
+   "slug": "discipline",
+   "rarity": "uncommon",
+   "price_usd": 2.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-087-221_full.png",
+   "set": "SFD",
+   "num": "087",
+   "code": "SFD-087",
+   "name": "Premonition",
+   "slug": "premonition",
+   "rarity": "epic",
+   "price_usd": 9.95,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-066-166_full.png",
+   "set": "VEN",
+   "num": "066",
+   "code": "VEN-066",
+   "name": "Temporal Breach",
+   "slug": "temporal-breach",
+   "rarity": "rare",
+   "price_usd": 0.63,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-047-298_full.png",
+   "set": "OGN",
+   "num": "047",
+   "code": "OGN-047",
+   "name": "Find Your Center",
+   "slug": "find-your-center",
+   "rarity": "common",
+   "price_usd": 0.19,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-035-166_full.png",
+   "set": "VEN",
+   "num": "035",
+   "code": "VEN-035",
+   "name": "Sanction",
+   "slug": "sanction",
+   "rarity": "uncommon",
+   "price_usd": 0.1,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-146-166_full.png",
+   "set": "VEN",
+   "num": "146",
+   "code": "VEN-146",
+   "name": "Siphoning Strike",
+   "slug": "siphoning-strike",
+   "rarity": "epic",
+   "price_usd": 2.87,
+   "domains": [
+    "calm",
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-114-298_full.png",
+   "set": "OGN",
+   "num": "114",
+   "code": "OGN-114",
+   "name": "Progress Day",
+   "slug": "progress-day",
+   "rarity": "rare",
+   "price_usd": 1.34,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-209-221_full.png",
+   "set": "SFD",
+   "num": "209",
+   "code": "SFD-209",
+   "name": "Forgotten Monument",
+   "slug": "forgotten-monument",
+   "rarity": "uncommon",
+   "price_usd": 0.16,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-216-221_full.png",
+   "set": "SFD",
+   "num": "216",
+   "code": "SFD-216",
+   "name": "Rockfall Path",
+   "slug": "rockfall-path",
+   "rarity": "uncommon",
+   "price_usd": 0.15,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-219-221_full.png",
+   "set": "SFD",
+   "num": "219",
+   "code": "SFD-219",
+   "name": "The Papertree",
+   "slug": "the-papertree",
+   "rarity": "uncommon",
+   "price_usd": 0.09,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-042-298_full.png",
+   "set": "OGN",
+   "num": "042",
+   "code": "OGN-042",
+   "name": "Calm Rune",
+   "slug": "calm-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-089a-298_full.png",
+   "set": "OGN",
+   "num": "089a",
+   "code": "OGN-089a",
+   "name": "Mind Rune",
+   "slug": "mind-rune",
+   "rarity": "common",
+   "price_usd": 0.1,
+   "domains": [
+    "mind"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 14:06:12"
+}

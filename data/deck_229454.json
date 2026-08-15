@@ -1,0 +1,512 @@
+{
+ "id": 229454,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-leona-radiant-dawn-229454",
+ "rank": "1st",
+ "rank_num": 1,
+ "record": "2-0-1",
+ "legend": "Leona, Radiant Dawn",
+ "legend_img": "/img/cards/riftbound/OGN/ogn-306-298_tile.png",
+ "name": "Leona, Radiant Dawn",
+ "player": "Rekiаn",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "calm",
+  "order"
+ ],
+ "players": 14,
+ "store": "Sword and Board Games and Hobbies",
+ "tournament": "Wednesday Evening Nexus Night",
+ "stars": 1,
+ "price_usd": 130.79,
+ "spiciness": 85,
+ "date": "2026-08-12",
+ "archetype": "Calm Order",
+ "archetype_slug": "calm-order",
+ "tournament_id": 13792,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-306-298_full.png",
+   "set": "OGN",
+   "num": "306",
+   "code": "OGN-306",
+   "name": "Leona, Radiant Dawn",
+   "slug": "leona-radiant-dawn",
+   "rarity": "rare",
+   "price_usd": 0.47,
+   "domains": [
+    "calm",
+    "order"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-079a-298_full.png",
+   "set": "OGN",
+   "num": "079a",
+   "code": "OGN-079a",
+   "name": "Leona, Zealot",
+   "slug": "leona-zealot",
+   "rarity": "epic",
+   "price_usd": 2.22,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-036-221_full.png",
+   "set": "SFD",
+   "num": "036",
+   "code": "SFD-036",
+   "name": "Lonely Poro",
+   "slug": "lonely-poro",
+   "rarity": "common",
+   "price_usd": 0.19,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-036-219_full.png",
+   "set": "UNL",
+   "num": "036",
+   "code": "UNL-036",
+   "name": "Mutated Mouser",
+   "slug": "mutated-mouser",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-134-166_full.png",
+   "set": "VEN",
+   "num": "134",
+   "code": "VEN-134",
+   "name": "Kayle, Justified",
+   "slug": "kayle-justified",
+   "rarity": "rare",
+   "price_usd": 0.55,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-135a-166_full.png",
+   "set": "VEN",
+   "num": "135a",
+   "code": "VEN-135a",
+   "name": "Kennen, Keeper of Balance",
+   "slug": "kennen-keeper-of-balance",
+   "rarity": "rare",
+   "price_usd": 0.18,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-052-219_full.png",
+   "set": "UNL",
+   "num": "052",
+   "code": "UNL-052",
+   "name": "Nami, Headstrong",
+   "slug": "nami-headstrong",
+   "rarity": "rare",
+   "price_usd": 0.32,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-055a-219_full.png",
+   "set": "UNL",
+   "num": "055a",
+   "code": "UNL-055a",
+   "name": "Vex, Mocking",
+   "slug": "vex-mocking",
+   "rarity": "rare",
+   "price_usd": 0.2,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-176a-219_full.png",
+   "set": "UNL",
+   "num": "176a",
+   "code": "UNL-176a",
+   "name": "Vi, Peacekeeper",
+   "slug": "vi-peacekeeper",
+   "rarity": "rare",
+   "price_usd": 3.19,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-079a-298_full.png",
+   "set": "OGN",
+   "num": "079a",
+   "code": "OGN-079a",
+   "name": "Leona, Zealot",
+   "slug": "leona-zealot",
+   "rarity": "epic",
+   "price_usd": 2.22,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-060-219_full.png",
+   "set": "UNL",
+   "num": "060",
+   "code": "UNL-060",
+   "name": "Vilemaw",
+   "slug": "vilemaw",
+   "rarity": "epic",
+   "price_usd": 20.3,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-077-298_full.png",
+   "set": "OGN",
+   "num": "077",
+   "code": "OGN-077",
+   "name": "Zhonya's Hourglass",
+   "slug": "zhonyas-hourglass",
+   "rarity": "rare",
+   "price_usd": 19.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-045-298_full.png",
+   "set": "OGN",
+   "num": "045",
+   "code": "OGN-045",
+   "name": "Defy",
+   "slug": "defy",
+   "rarity": "common",
+   "price_usd": 4.63,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-058-298_full.png",
+   "set": "OGN",
+   "num": "058",
+   "code": "OGN-058",
+   "name": "Discipline",
+   "slug": "discipline",
+   "rarity": "uncommon",
+   "price_usd": 2.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-213-298_full.png",
+   "set": "OGN",
+   "num": "213",
+   "code": "OGN-213",
+   "name": "Hidden Blade",
+   "slug": "hidden-blade",
+   "rarity": "common",
+   "price_usd": 1.08,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-224-298_full.png",
+   "set": "OGN",
+   "num": "224",
+   "code": "OGN-224",
+   "name": "Salvage",
+   "slug": "salvage",
+   "rarity": "uncommon",
+   "price_usd": 4.77,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-040-221_full.png",
+   "set": "SFD",
+   "num": "040",
+   "code": "SFD-040",
+   "name": "Thwonk!",
+   "slug": "thwonk",
+   "rarity": "common",
+   "price_usd": 0.16,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-042-219_full.png",
+   "set": "UNL",
+   "num": "042",
+   "code": "UNL-042",
+   "name": "Back Off",
+   "slug": "back-off",
+   "rarity": "uncommon",
+   "price_usd": 0.22,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-207-298_full.png",
+   "set": "OGN",
+   "num": "207",
+   "code": "OGN-207",
+   "name": "Call to Glory",
+   "slug": "call-to-glory",
+   "rarity": "common",
+   "price_usd": 0.18,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-155-219_full.png",
+   "set": "UNL",
+   "num": "155",
+   "code": "UNL-155",
+   "name": "Heroic Charge",
+   "slug": "heroic-charge",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-262-298_full.png",
+   "set": "OGN",
+   "num": "262",
+   "code": "OGN-262",
+   "name": "Zenith Blade",
+   "slug": "zenith-blade",
+   "rarity": "epic",
+   "price_usd": 8.21,
+   "domains": [
+    "calm",
+    "order"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-280-298_full.png",
+   "set": "OGN",
+   "num": "280",
+   "code": "OGN-280",
+   "name": "Grove of the God-Willow",
+   "slug": "grove-of-the-god-willow",
+   "rarity": "uncommon",
+   "price_usd": 0.24,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-282-298_full.png",
+   "set": "OGN",
+   "num": "282",
+   "code": "OGN-282",
+   "name": "Monastery of Hirana",
+   "slug": "monastery-of-hirana",
+   "rarity": "uncommon",
+   "price_usd": 0.21,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-219-221_full.png",
+   "set": "SFD",
+   "num": "219",
+   "code": "SFD-219",
+   "name": "The Papertree",
+   "slug": "the-papertree",
+   "rarity": "uncommon",
+   "price_usd": 0.09,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 7,
+   "image": "/img/cards/riftbound/OGN/ogn-042-298_full.png",
+   "set": "OGN",
+   "num": "042",
+   "code": "OGN-042",
+   "name": "Calm Rune",
+   "slug": "calm-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 5,
+   "image": "/img/cards/riftbound/OGN/ogn-214a-298_full.png",
+   "set": "OGN",
+   "num": "214a",
+   "code": "OGN-214a",
+   "name": "Order Rune",
+   "slug": "order-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-039-166_full.png",
+   "set": "VEN",
+   "num": "039",
+   "code": "VEN-039",
+   "name": "Crumbling Sands",
+   "slug": "crumbling-sands",
+   "rarity": "rare",
+   "price_usd": 0.27,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-209-298_full.png",
+   "set": "OGN",
+   "num": "209",
+   "code": "OGN-209",
+   "name": "Cull the Weak",
+   "slug": "cull-the-weak",
+   "rarity": "common",
+   "price_usd": 0.34,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-224-298_full.png",
+   "set": "OGN",
+   "num": "224",
+   "code": "OGN-224",
+   "name": "Salvage",
+   "slug": "salvage",
+   "rarity": "uncommon",
+   "price_usd": 4.77,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-056-298_full.png",
+   "set": "OGN",
+   "num": "056",
+   "code": "OGN-056",
+   "name": "Adaptatron",
+   "slug": "adaptatron",
+   "rarity": "uncommon",
+   "price_usd": 0.24,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-238a-298_full.png",
+   "set": "OGN",
+   "num": "238a",
+   "code": "OGN-238a",
+   "name": "Leona, Determined",
+   "slug": "leona-determined",
+   "rarity": "rare",
+   "price_usd": 0.42,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-066a-298_full.png",
+   "set": "OGN",
+   "num": "066a",
+   "code": "OGN-066a",
+   "name": "Ahri, Alluring",
+   "slug": "ahri-alluring",
+   "rarity": "rare",
+   "price_usd": 1.4,
+   "domains": [
+    "calm"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 13:50:40"
+}

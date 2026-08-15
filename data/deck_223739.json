@@ -1,0 +1,466 @@
+{
+ "id": 223739,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-jayce-aurora-2-0-223739",
+ "rank": "Top4",
+ "rank_num": 99,
+ "record": "",
+ "legend": "Jayce, Defender of Tomorrow",
+ "legend_img": "/img/cards/riftbound/VEN/ven-149-166_tile.png",
+ "name": "JAYCE AURORA 2.0",
+ "player": "Jаiro Mаrtos",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "body",
+  "mind"
+ ],
+ "players": 31,
+ "store": "MICELION GAMES",
+ "tournament": "Riftbound: Master Micelion III",
+ "stars": 2,
+ "price_usd": 262.24,
+ "spiciness": 34,
+ "date": "2026-08-01",
+ "archetype": "Body Mind",
+ "archetype_slug": "body-mind",
+ "tournament_id": 13652,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-149-166_full.png",
+   "set": "VEN",
+   "num": "149",
+   "code": "VEN-149",
+   "name": "Jayce, Defender of Tomorrow",
+   "slug": "jayce-defender-of-tomorrow",
+   "rarity": "rare",
+   "price_usd": 0.11,
+   "domains": [
+    "mind",
+    "body"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-088-166_full.png",
+   "set": "VEN",
+   "num": "088",
+   "code": "VEN-088",
+   "name": "Jayce, Hammer in Hand",
+   "slug": "jayce-hammer-in-hand",
+   "rarity": "rare",
+   "price_usd": 0.24,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-118-219_full.png",
+   "set": "UNL",
+   "num": "118",
+   "code": "UNL-118",
+   "name": "Elder Dragon",
+   "slug": "elder-dragon",
+   "rarity": "epic",
+   "price_usd": 12.97,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-099-298_full.png",
+   "set": "OGN",
+   "num": "099",
+   "code": "OGN-099",
+   "name": "Garbage Grabber",
+   "slug": "garbage-grabber",
+   "rarity": "uncommon",
+   "price_usd": 0.17,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-075-166_full.png",
+   "set": "VEN",
+   "num": "075",
+   "code": "VEN-075",
+   "name": "Platewyrm Egg",
+   "slug": "platewyrm-egg",
+   "rarity": "common",
+   "price_usd": 0.1,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-054-166_full.png",
+   "set": "VEN",
+   "num": "054",
+   "code": "VEN-054",
+   "name": "Questionable Tome",
+   "slug": "questionable-tome",
+   "rarity": "common",
+   "price_usd": 0.1,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-088-219_full.png",
+   "set": "UNL",
+   "num": "088",
+   "code": "UNL-088",
+   "name": "Gutter Palace",
+   "slug": "gutter-palace",
+   "rarity": "epic",
+   "price_usd": 0.83,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-160-298_full.png",
+   "set": "OGN",
+   "num": "160",
+   "code": "OGN-160",
+   "name": "Dazzling Aurora",
+   "slug": "dazzling-aurora",
+   "rarity": "epic",
+   "price_usd": 45.07,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-080-221_full.png",
+   "set": "SFD",
+   "num": "080",
+   "code": "SFD-080",
+   "name": "Bellows Breath",
+   "slug": "bellows-breath",
+   "rarity": "rare",
+   "price_usd": 4.07,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-133-298_full.png",
+   "set": "OGN",
+   "num": "133",
+   "code": "OGN-133",
+   "name": "Flurry of Blades",
+   "slug": "flurry-of-blades",
+   "rarity": "common",
+   "price_usd": 0.13,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-156-298_full.png",
+   "set": "OGN",
+   "num": "156",
+   "code": "OGN-156",
+   "name": "Sabotage",
+   "slug": "sabotage",
+   "rarity": "rare",
+   "price_usd": 19.07,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-049-166_full.png",
+   "set": "VEN",
+   "num": "049",
+   "code": "VEN-049",
+   "name": "Dredge Up",
+   "slug": "dredge-up",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-134-298_full.png",
+   "set": "OGN",
+   "num": "134",
+   "code": "OGN-134",
+   "name": "Mobilize",
+   "slug": "mobilize",
+   "rarity": "common",
+   "price_usd": 0.12,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-066-166_full.png",
+   "set": "VEN",
+   "num": "066",
+   "code": "VEN-066",
+   "name": "Temporal Breach",
+   "slug": "temporal-breach",
+   "rarity": "rare",
+   "price_usd": 0.63,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-138-298_full.png",
+   "set": "OGN",
+   "num": "138",
+   "code": "OGN-138",
+   "name": "Catalyst of Aeons",
+   "slug": "catalyst-of-aeons",
+   "rarity": "uncommon",
+   "price_usd": 0.56,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-115-298_full.png",
+   "set": "OGN",
+   "num": "115",
+   "code": "OGN-115",
+   "name": "Promising Future",
+   "slug": "promising-future",
+   "rarity": "rare",
+   "price_usd": 1.35,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-069-219_full.png",
+   "set": "UNL",
+   "num": "069",
+   "code": "UNL-069",
+   "name": "Sprite Burst",
+   "slug": "sprite-burst",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-056-166_full.png",
+   "set": "VEN",
+   "num": "056",
+   "code": "VEN-056",
+   "name": "Clairvoyance",
+   "slug": "clairvoyance",
+   "rarity": "uncommon",
+   "price_usd": 0.12,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-157-166_full.png",
+   "set": "VEN",
+   "num": "157",
+   "code": "VEN-157",
+   "name": "Dragon Roost",
+   "slug": "dragon-roost",
+   "rarity": "uncommon",
+   "price_usd": 0.15,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-209-221_full.png",
+   "set": "SFD",
+   "num": "209",
+   "code": "SFD-209",
+   "name": "Forgotten Monument",
+   "slug": "forgotten-monument",
+   "rarity": "uncommon",
+   "price_usd": 0.16,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-287-298_full.png",
+   "set": "OGN",
+   "num": "287",
+   "code": "OGN-287",
+   "name": "Sigil of the Storm",
+   "slug": "sigil-of-the-storm",
+   "rarity": "uncommon",
+   "price_usd": 0.18,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 7,
+   "image": "/img/cards/riftbound/OGN/ogn-126-298_full.png",
+   "set": "OGN",
+   "num": "126",
+   "code": "OGN-126",
+   "name": "Body Rune",
+   "slug": "body-rune",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 5,
+   "image": "/img/cards/riftbound/OGN/ogn-089a-298_full.png",
+   "set": "OGN",
+   "num": "089a",
+   "code": "OGN-089a",
+   "name": "Mind Rune",
+   "slug": "mind-rune",
+   "rarity": "common",
+   "price_usd": 0.1,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-085-166_full.png",
+   "set": "VEN",
+   "num": "085",
+   "code": "VEN-085",
+   "name": "Decree of Strength",
+   "slug": "decree-of-strength",
+   "rarity": "rare",
+   "price_usd": 0.28,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-133-298_full.png",
+   "set": "OGN",
+   "num": "133",
+   "code": "OGN-133",
+   "name": "Flurry of Blades",
+   "slug": "flurry-of-blades",
+   "rarity": "common",
+   "price_usd": 0.13,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-106-219_full.png",
+   "set": "UNL",
+   "num": "106",
+   "code": "UNL-106",
+   "name": "Repulse",
+   "slug": "repulse",
+   "rarity": "uncommon",
+   "price_usd": 0.35,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-156-298_full.png",
+   "set": "OGN",
+   "num": "156",
+   "code": "OGN-156",
+   "name": "Sabotage",
+   "slug": "sabotage",
+   "rarity": "rare",
+   "price_usd": 19.07,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-103-219_full.png",
+   "set": "UNL",
+   "num": "103",
+   "code": "UNL-103",
+   "name": "Disposal Order",
+   "slug": "disposal-order",
+   "rarity": "uncommon",
+   "price_usd": 0.17,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-078-219_full.png",
+   "set": "UNL",
+   "num": "078",
+   "code": "UNL-078",
+   "name": "Sprite Fountain",
+   "slug": "sprite-fountain",
+   "rarity": "uncommon",
+   "price_usd": 2.56,
+   "domains": [
+    "mind"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 14:14:06"
+}

@@ -1,0 +1,512 @@
+{
+ "id": 223941,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-irelia-223941",
+ "rank": "Top4",
+ "rank_num": 99,
+ "record": "",
+ "legend": "Irelia, Blade Dancer",
+ "legend_img": "/img/cards/riftbound/SFD/sfd-195-221_tile.png",
+ "name": "Irelia",
+ "player": "Cаrаvаggio",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "calm",
+  "chaos"
+ ],
+ "players": 76,
+ "store": "Runes And Rift",
+ "tournament": "Triple Win-A-Box | Vendetta Tournament",
+ "stars": 2,
+ "price_usd": 229.45,
+ "spiciness": 17,
+ "date": "2026-08-01",
+ "archetype": "Calm Chaos",
+ "archetype_slug": "calm-chaos",
+ "tournament_id": 13679,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-195-221_full.png",
+   "set": "SFD",
+   "num": "195",
+   "code": "SFD-195",
+   "name": "Irelia, Blade Dancer",
+   "slug": "irelia-blade-dancer",
+   "rarity": "rare",
+   "price_usd": 0.21,
+   "domains": [
+    "calm",
+    "chaos"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-225-221_full.png",
+   "set": "SFD",
+   "num": "225",
+   "code": "SFD-225",
+   "name": "Irelia, Fervent",
+   "slug": "irelia-fervent",
+   "rarity": "epic",
+   "price_usd": 21.19,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-043-166_full.png",
+   "set": "VEN",
+   "num": "043",
+   "code": "VEN-043",
+   "name": "Steel Paws",
+   "slug": "steel-paws",
+   "rarity": "rare",
+   "price_usd": 0.32,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-053-219_full.png",
+   "set": "UNL",
+   "num": "053",
+   "code": "UNL-053",
+   "name": "Scuttle Crab",
+   "slug": "scuttle-crab",
+   "rarity": "rare",
+   "price_usd": 3.42,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-199-298_full.png",
+   "set": "OGN",
+   "num": "199",
+   "code": "OGN-199",
+   "name": "Tideturner",
+   "slug": "tideturner",
+   "rarity": "rare",
+   "price_usd": 3.14,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-140-221_full.png",
+   "set": "SFD",
+   "num": "140",
+   "code": "SFD-140",
+   "name": "Fizz, Trickster",
+   "slug": "fizz-trickster",
+   "rarity": "rare",
+   "price_usd": 11.51,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-048-221_full.png",
+   "set": "SFD",
+   "num": "048",
+   "code": "SFD-048",
+   "name": "Stellacorn Herder",
+   "slug": "stellacorn-herder",
+   "rarity": "uncommon",
+   "price_usd": 1.5,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-051-221_full.png",
+   "set": "SFD",
+   "num": "051",
+   "code": "SFD-051",
+   "name": "Guardian Angel",
+   "slug": "guardian-angel",
+   "rarity": "rare",
+   "price_usd": 1.35,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-077-298_full.png",
+   "set": "OGN",
+   "num": "077",
+   "code": "OGN-077",
+   "name": "Zhonya's Hourglass",
+   "slug": "zhonyas-hourglass",
+   "rarity": "rare",
+   "price_usd": 19.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-133-221_full.png",
+   "set": "SFD",
+   "num": "133",
+   "code": "SFD-133",
+   "name": "Boots of Swiftness",
+   "slug": "boots-of-swiftness",
+   "rarity": "uncommon",
+   "price_usd": 0.38,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-043-298_full.png",
+   "set": "OGN",
+   "num": "043",
+   "code": "OGN-043",
+   "name": "Charm",
+   "slug": "charm",
+   "rarity": "common",
+   "price_usd": 1.01,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-196-221_full.png",
+   "set": "SFD",
+   "num": "196",
+   "code": "SFD-196",
+   "name": "Defiant Dance",
+   "slug": "defiant-dance",
+   "rarity": "epic",
+   "price_usd": 20.79,
+   "domains": [
+    "calm",
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-045-298_full.png",
+   "set": "OGN",
+   "num": "045",
+   "code": "OGN-045",
+   "name": "Defy",
+   "slug": "defy",
+   "rarity": "common",
+   "price_usd": 4.63,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-046-298_full.png",
+   "set": "OGN",
+   "num": "046",
+   "code": "OGN-046",
+   "name": "En Garde",
+   "slug": "en-garde",
+   "rarity": "common",
+   "price_usd": 0.24,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-183-298_full.png",
+   "set": "OGN",
+   "num": "183",
+   "code": "OGN-183",
+   "name": "Stacked Deck",
+   "slug": "stacked-deck",
+   "rarity": "uncommon",
+   "price_usd": 11.81,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-058-298_full.png",
+   "set": "OGN",
+   "num": "058",
+   "code": "OGN-058",
+   "name": "Discipline",
+   "slug": "discipline",
+   "rarity": "uncommon",
+   "price_usd": 2.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGS/ogs-011-024_full.png",
+   "set": "OGS",
+   "num": "011",
+   "code": "OGS-011",
+   "name": "Flash",
+   "slug": "flash",
+   "rarity": "common",
+   "price_usd": 3.64,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-173-298_full.png",
+   "set": "OGN",
+   "num": "173",
+   "code": "OGN-173",
+   "name": "Ride the Wind",
+   "slug": "ride-the-wind",
+   "rarity": "common",
+   "price_usd": 1.25,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-047-298_full.png",
+   "set": "OGN",
+   "num": "047",
+   "code": "OGN-047",
+   "name": "Find Your Center",
+   "slug": "find-your-center",
+   "rarity": "common",
+   "price_usd": 0.19,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-128-219_full.png",
+   "set": "UNL",
+   "num": "128",
+   "code": "UNL-128",
+   "name": "Star-Crossed",
+   "slug": "star-crossed",
+   "rarity": "common",
+   "price_usd": 0.19,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-205-219_full.png",
+   "set": "UNL",
+   "num": "205",
+   "code": "UNL-205",
+   "name": "Abandoned Hall",
+   "slug": "abandoned-hall",
+   "rarity": "uncommon",
+   "price_usd": 0.1,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-218-221_full.png",
+   "set": "SFD",
+   "num": "218",
+   "code": "SFD-218",
+   "name": "Sunken Temple",
+   "slug": "sunken-temple",
+   "rarity": "uncommon",
+   "price_usd": 0.15,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-289-298_full.png",
+   "set": "OGN",
+   "num": "289",
+   "code": "OGN-289",
+   "name": "Targon's Peak",
+   "slug": "targons-peak",
+   "rarity": "uncommon",
+   "price_usd": 0.23,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-042-298_full.png",
+   "set": "OGN",
+   "num": "042",
+   "code": "OGN-042",
+   "name": "Calm Rune",
+   "slug": "calm-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-166-298_full.png",
+   "set": "OGN",
+   "num": "166",
+   "code": "OGN-166",
+   "name": "Chaos Rune",
+   "slug": "chaos-rune",
+   "rarity": "common",
+   "price_usd": 0.08,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-039-166_full.png",
+   "set": "VEN",
+   "num": "039",
+   "code": "VEN-039",
+   "name": "Crumbling Sands",
+   "slug": "crumbling-sands",
+   "rarity": "rare",
+   "price_usd": 0.27,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGS/ogs-011-024_full.png",
+   "set": "OGS",
+   "num": "011",
+   "code": "OGS-011",
+   "name": "Flash",
+   "slug": "flash",
+   "rarity": "common",
+   "price_usd": 3.64,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-136-221_full.png",
+   "set": "SFD",
+   "num": "136",
+   "code": "SFD-136",
+   "name": "Hard Bargain",
+   "slug": "hard-bargain",
+   "rarity": "uncommon",
+   "price_usd": 1.47,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-128-219_full.png",
+   "set": "UNL",
+   "num": "128",
+   "code": "UNL-128",
+   "name": "Star-Crossed",
+   "slug": "star-crossed",
+   "rarity": "common",
+   "price_usd": 0.19,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-100-166_full.png",
+   "set": "VEN",
+   "num": "100",
+   "code": "VEN-100",
+   "name": "Up from the Deep",
+   "slug": "up-from-the-deep",
+   "rarity": "common",
+   "price_usd": 0.13,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-056-298_full.png",
+   "set": "OGN",
+   "num": "056",
+   "code": "OGN-056",
+   "name": "Adaptatron",
+   "slug": "adaptatron",
+   "rarity": "uncommon",
+   "price_usd": 0.24,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-038-166_full.png",
+   "set": "VEN",
+   "num": "038",
+   "code": "VEN-038",
+   "name": "Akali, Silent",
+   "slug": "akali-silent",
+   "rarity": "rare",
+   "price_usd": 0.27,
+   "domains": [
+    "calm"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 14:16:24"
+}

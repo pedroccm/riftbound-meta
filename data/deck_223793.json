@@ -1,0 +1,542 @@
+{
+ "id": 223793,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-ivern-the-father-of-everyone-223793",
+ "rank": "1st",
+ "rank_num": 1,
+ "record": "4-0-0",
+ "legend": "Ivern, Green Father",
+ "legend_img": "/img/cards/riftbound/UNL/unl-233-219_tile.png",
+ "name": "Ivern, the father of everyone",
+ "player": "Szumi",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "calm",
+  "order"
+ ],
+ "players": 14,
+ "store": "Card Citadel",
+ "tournament": "Nexus Night Card Citadel",
+ "stars": 1,
+ "price_usd": 117.49,
+ "spiciness": 44,
+ "date": "2026-08-01",
+ "archetype": "Calm Order",
+ "archetype_slug": "calm-order",
+ "tournament_id": 13661,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-233-219_full.png",
+   "set": "UNL",
+   "num": "233",
+   "code": "UNL-233",
+   "name": "Ivern, Green Father",
+   "slug": "ivern-green-father",
+   "rarity": "rare",
+   "price_usd": 0.11,
+   "domains": [
+    "calm",
+    "order"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-051-219_full.png",
+   "set": "UNL",
+   "num": "051",
+   "code": "UNL-051",
+   "name": "Ivern, Nurturer",
+   "slug": "ivern-nurturer",
+   "rarity": "rare",
+   "price_usd": 0.17,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-210-298_full.png",
+   "set": "OGN",
+   "num": "210",
+   "code": "OGN-210",
+   "name": "Daring Poro",
+   "slug": "daring-poro",
+   "rarity": "common",
+   "price_usd": 0.13,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-132-166_full.png",
+   "set": "VEN",
+   "num": "132",
+   "code": "VEN-132",
+   "name": "Fallen Feline",
+   "slug": "fallen-feline",
+   "rarity": "rare",
+   "price_usd": 0.23,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-036-219_full.png",
+   "set": "UNL",
+   "num": "036",
+   "code": "UNL-036",
+   "name": "Mutated Mouser",
+   "slug": "mutated-mouser",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-029-166_full.png",
+   "set": "VEN",
+   "num": "029",
+   "code": "VEN-029",
+   "name": "Ol' Poro",
+   "slug": "ol-poro",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-052-298_full.png",
+   "set": "OGN",
+   "num": "052",
+   "code": "OGN-052",
+   "name": "Stalwart Poro",
+   "slug": "stalwart-poro",
+   "rarity": "common",
+   "price_usd": 0.14,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-159-221_full.png",
+   "set": "SFD",
+   "num": "159",
+   "code": "SFD-159",
+   "name": "Trusty Ramhound",
+   "slug": "trusty-ramhound",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-032-221_full.png",
+   "set": "SFD",
+   "num": "032",
+   "code": "SFD-032",
+   "name": "Disarming Rake",
+   "slug": "disarming-rake",
+   "rarity": "common",
+   "price_usd": 0.2,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-033-219_full.png",
+   "set": "UNL",
+   "num": "033",
+   "code": "UNL-033",
+   "name": "Frisky Hunter",
+   "slug": "frisky-hunter",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-160-219_full.png",
+   "set": "UNL",
+   "num": "160",
+   "code": "UNL-160",
+   "name": "Ultrasoft Poro",
+   "slug": "ultrasoft-poro",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-176a-219_full.png",
+   "set": "UNL",
+   "num": "176a",
+   "code": "UNL-176a",
+   "name": "Vi, Peacekeeper",
+   "slug": "vi-peacekeeper",
+   "rarity": "rare",
+   "price_usd": 3.19,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-044-166_full.png",
+   "set": "VEN",
+   "num": "044",
+   "code": "VEN-044",
+   "name": "Astral Heron",
+   "slug": "astral-heron",
+   "rarity": "epic",
+   "price_usd": 19.37,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-060-219_full.png",
+   "set": "UNL",
+   "num": "060",
+   "code": "UNL-060",
+   "name": "Vilemaw",
+   "slug": "vilemaw",
+   "rarity": "epic",
+   "price_usd": 20.3,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-196-219_full.png",
+   "set": "UNL",
+   "num": "196",
+   "code": "UNL-196",
+   "name": "Daisy!",
+   "slug": "daisy",
+   "rarity": "epic",
+   "price_usd": 1.1,
+   "domains": [
+    "calm",
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-045-298_full.png",
+   "set": "OGN",
+   "num": "045",
+   "code": "OGN-045",
+   "name": "Defy",
+   "slug": "defy",
+   "rarity": "common",
+   "price_usd": 4.63,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-046-219_full.png",
+   "set": "UNL",
+   "num": "046",
+   "code": "UNL-046",
+   "name": "Friendship",
+   "slug": "friendship",
+   "rarity": "uncommon",
+   "price_usd": 0.16,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-058-298_full.png",
+   "set": "OGN",
+   "num": "058",
+   "code": "OGN-058",
+   "name": "Discipline",
+   "slug": "discipline",
+   "rarity": "uncommon",
+   "price_usd": 2.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-043-221_full.png",
+   "set": "SFD",
+   "num": "043",
+   "code": "SFD-043",
+   "name": "Emperor's Divide",
+   "slug": "emperors-divide",
+   "rarity": "uncommon",
+   "price_usd": 0.34,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-213-298_full.png",
+   "set": "OGN",
+   "num": "213",
+   "code": "OGN-213",
+   "name": "Hidden Blade",
+   "slug": "hidden-blade",
+   "rarity": "common",
+   "price_usd": 1.08,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-126-166_full.png",
+   "set": "VEN",
+   "num": "126",
+   "code": "VEN-126",
+   "name": "Ki Barrier",
+   "slug": "ki-barrier",
+   "rarity": "uncommon",
+   "price_usd": 0.15,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-207-298_full.png",
+   "set": "OGN",
+   "num": "207",
+   "code": "OGN-207",
+   "name": "Call to Glory",
+   "slug": "call-to-glory",
+   "rarity": "common",
+   "price_usd": 0.18,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-044-219_full.png",
+   "set": "UNL",
+   "num": "044",
+   "code": "UNL-044",
+   "name": "Flurry of Feathers",
+   "slug": "flurry-of-feathers",
+   "rarity": "uncommon",
+   "price_usd": 0.15,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-210-219_full.png",
+   "set": "UNL",
+   "num": "210",
+   "code": "UNL-210",
+   "name": "Forbidding Waste",
+   "slug": "forbidding-waste",
+   "rarity": "uncommon",
+   "price_usd": 0.09,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-216-221_full.png",
+   "set": "SFD",
+   "num": "216",
+   "code": "SFD-216",
+   "name": "Rockfall Path",
+   "slug": "rockfall-path",
+   "rarity": "uncommon",
+   "price_usd": 0.15,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-219-219_full.png",
+   "set": "UNL",
+   "num": "219",
+   "code": "UNL-219",
+   "name": "Vaults of Helia",
+   "slug": "vaults-of-helia",
+   "rarity": "uncommon",
+   "price_usd": 0.04,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 7,
+   "image": "/img/cards/riftbound/OGN/ogn-042-298_full.png",
+   "set": "OGN",
+   "num": "042",
+   "code": "OGN-042",
+   "name": "Calm Rune",
+   "slug": "calm-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 5,
+   "image": "/img/cards/riftbound/OGN/ogn-214a-298_full.png",
+   "set": "OGN",
+   "num": "214a",
+   "code": "OGN-214a",
+   "name": "Order Rune",
+   "slug": "order-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-043-298_full.png",
+   "set": "OGN",
+   "num": "043",
+   "code": "OGN-043",
+   "name": "Charm",
+   "slug": "charm",
+   "rarity": "common",
+   "price_usd": 1.01,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-040-166_full.png",
+   "set": "VEN",
+   "num": "040",
+   "code": "VEN-040",
+   "name": "Decree of Focus",
+   "slug": "decree-of-focus",
+   "rarity": "rare",
+   "price_usd": 0.24,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-209-298_full.png",
+   "set": "OGN",
+   "num": "209",
+   "code": "OGN-209",
+   "name": "Cull the Weak",
+   "slug": "cull-the-weak",
+   "rarity": "common",
+   "price_usd": 0.34,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-043-221_full.png",
+   "set": "SFD",
+   "num": "043",
+   "code": "SFD-043",
+   "name": "Emperor's Divide",
+   "slug": "emperors-divide",
+   "rarity": "uncommon",
+   "price_usd": 0.34,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-032-221_full.png",
+   "set": "SFD",
+   "num": "032",
+   "code": "SFD-032",
+   "name": "Disarming Rake",
+   "slug": "disarming-rake",
+   "rarity": "common",
+   "price_usd": 0.2,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-177-219_full.png",
+   "set": "UNL",
+   "num": "177",
+   "code": "UNL-177",
+   "name": "Ivern, Friend to All",
+   "slug": "ivern-friend-to-all",
+   "rarity": "epic",
+   "price_usd": 0.99,
+   "domains": [
+    "order"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 14:15:19"
+}

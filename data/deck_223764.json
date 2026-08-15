@@ -1,0 +1,543 @@
+{
+ "id": 223764,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-nasus-curator-of-the-sands-223764",
+ "rank": "Top4",
+ "rank_num": 99,
+ "record": "",
+ "legend": "Nasus, Curator of the Sands",
+ "legend_img": "/img/cards/riftbound/VEN/ven-192-166_tile.png",
+ "name": "Nasus, Curator of the Sands",
+ "player": "Osmаn Mert İnce",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "calm",
+  "mind"
+ ],
+ "players": 30,
+ "store": "GG Haven",
+ "tournament": "Haven Online Challenger Series",
+ "stars": 2,
+ "price_usd": 349.66,
+ "spiciness": 35,
+ "date": "2026-08-02",
+ "archetype": "Calm Mind",
+ "archetype_slug": "calm-mind",
+ "tournament_id": 13657,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-192-166_full.png",
+   "set": "VEN",
+   "num": "192",
+   "code": "VEN-192",
+   "name": "Nasus, Curator of the Sands",
+   "slug": "nasus-curator-of-the-sands",
+   "rarity": "rare",
+   "price_usd": 0.09,
+   "domains": [
+    "calm",
+    "mind"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-046a-166_full.png",
+   "set": "VEN",
+   "num": "046a",
+   "code": "VEN-046a",
+   "name": "Nasus, Ascended",
+   "slug": "nasus-ascended",
+   "rarity": "epic",
+   "price_usd": 0.79,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-043-166_full.png",
+   "set": "VEN",
+   "num": "043",
+   "code": "VEN-043",
+   "name": "Steel Paws",
+   "slug": "steel-paws",
+   "rarity": "rare",
+   "price_usd": 0.32,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-044-298_full.png",
+   "set": "OGN",
+   "num": "044",
+   "code": "OGN-044",
+   "name": "Clockwork Keeper",
+   "slug": "clockwork-keeper",
+   "rarity": "common",
+   "price_usd": 0.1,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-053-219_full.png",
+   "set": "UNL",
+   "num": "053",
+   "code": "UNL-053",
+   "name": "Scuttle Crab",
+   "slug": "scuttle-crab",
+   "rarity": "rare",
+   "price_usd": 3.42,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-032-221_full.png",
+   "set": "SFD",
+   "num": "032",
+   "code": "SFD-032",
+   "name": "Disarming Rake",
+   "slug": "disarming-rake",
+   "rarity": "common",
+   "price_usd": 0.2,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-044-166_full.png",
+   "set": "VEN",
+   "num": "044",
+   "code": "VEN-044",
+   "name": "Astral Heron",
+   "slug": "astral-heron",
+   "rarity": "epic",
+   "price_usd": 19.37,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-116-298_full.png",
+   "set": "OGN",
+   "num": "116",
+   "code": "OGN-116",
+   "name": "Thousand-Tailed Watcher",
+   "slug": "thousand-tailed-watcher",
+   "rarity": "rare",
+   "price_usd": 28.91,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-077-298_full.png",
+   "set": "OGN",
+   "num": "077",
+   "code": "OGN-077",
+   "name": "Zhonya's Hourglass",
+   "slug": "zhonyas-hourglass",
+   "rarity": "rare",
+   "price_usd": 19.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-080-221_full.png",
+   "set": "SFD",
+   "num": "080",
+   "code": "SFD-080",
+   "name": "Bellows Breath",
+   "slug": "bellows-breath",
+   "rarity": "rare",
+   "price_usd": 4.07,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-043-298_full.png",
+   "set": "OGN",
+   "num": "043",
+   "code": "OGN-043",
+   "name": "Charm",
+   "slug": "charm",
+   "rarity": "common",
+   "price_usd": 1.01,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-039-166_full.png",
+   "set": "VEN",
+   "num": "039",
+   "code": "VEN-039",
+   "name": "Crumbling Sands",
+   "slug": "crumbling-sands",
+   "rarity": "rare",
+   "price_usd": 0.27,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-045-298_full.png",
+   "set": "OGN",
+   "num": "045",
+   "code": "OGN-045",
+   "name": "Defy",
+   "slug": "defy",
+   "rarity": "common",
+   "price_usd": 4.63,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-104-298_full.png",
+   "set": "OGN",
+   "num": "104",
+   "code": "OGN-104",
+   "name": "Retreat",
+   "slug": "retreat",
+   "rarity": "uncommon",
+   "price_usd": 0.85,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-095-298_full.png",
+   "set": "OGN",
+   "num": "095",
+   "code": "OGN-095",
+   "name": "Stupefy",
+   "slug": "stupefy",
+   "rarity": "common",
+   "price_usd": 0.24,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-058-298_full.png",
+   "set": "OGN",
+   "num": "058",
+   "code": "OGN-058",
+   "name": "Discipline",
+   "slug": "discipline",
+   "rarity": "uncommon",
+   "price_usd": 2.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-043-221_full.png",
+   "set": "SFD",
+   "num": "043",
+   "code": "SFD-043",
+   "name": "Emperor's Divide",
+   "slug": "emperors-divide",
+   "rarity": "uncommon",
+   "price_usd": 0.34,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-087-221_full.png",
+   "set": "SFD",
+   "num": "087",
+   "code": "SFD-087",
+   "name": "Premonition",
+   "slug": "premonition",
+   "rarity": "epic",
+   "price_usd": 9.95,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-047-298_full.png",
+   "set": "OGN",
+   "num": "047",
+   "code": "OGN-047",
+   "name": "Find Your Center",
+   "slug": "find-your-center",
+   "rarity": "common",
+   "price_usd": 0.19,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-146-166_full.png",
+   "set": "VEN",
+   "num": "146",
+   "code": "VEN-146",
+   "name": "Siphoning Strike",
+   "slug": "siphoning-strike",
+   "rarity": "epic",
+   "price_usd": 2.87,
+   "domains": [
+    "calm",
+    "mind"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-209-221_full.png",
+   "set": "SFD",
+   "num": "209",
+   "code": "SFD-209",
+   "name": "Forgotten Monument",
+   "slug": "forgotten-monument",
+   "rarity": "uncommon",
+   "price_usd": 0.16,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-218-221_full.png",
+   "set": "SFD",
+   "num": "218",
+   "code": "SFD-218",
+   "name": "Sunken Temple",
+   "slug": "sunken-temple",
+   "rarity": "uncommon",
+   "price_usd": 0.15,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-219-221_full.png",
+   "set": "SFD",
+   "num": "219",
+   "code": "SFD-219",
+   "name": "The Papertree",
+   "slug": "the-papertree",
+   "rarity": "uncommon",
+   "price_usd": 0.09,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-042-298_full.png",
+   "set": "OGN",
+   "num": "042",
+   "code": "OGN-042",
+   "name": "Calm Rune",
+   "slug": "calm-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-089a-298_full.png",
+   "set": "OGN",
+   "num": "089a",
+   "code": "OGN-089a",
+   "name": "Mind Rune",
+   "slug": "mind-rune",
+   "rarity": "common",
+   "price_usd": 0.1,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-080-221_full.png",
+   "set": "SFD",
+   "num": "080",
+   "code": "SFD-080",
+   "name": "Bellows Breath",
+   "slug": "bellows-breath",
+   "rarity": "rare",
+   "price_usd": 4.07,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-043-298_full.png",
+   "set": "OGN",
+   "num": "043",
+   "code": "OGN-043",
+   "name": "Charm",
+   "slug": "charm",
+   "rarity": "common",
+   "price_usd": 1.01,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-061-166_full.png",
+   "set": "VEN",
+   "num": "061",
+   "code": "VEN-061",
+   "name": "Decree of Insight",
+   "slug": "decree-of-insight",
+   "rarity": "rare",
+   "price_usd": 0.23,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-045-221_full.png",
+   "set": "SFD",
+   "num": "045",
+   "code": "SFD-045",
+   "name": "Not So Fast",
+   "slug": "not-so-fast",
+   "rarity": "uncommon",
+   "price_usd": 2.0,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-077-298_full.png",
+   "set": "OGN",
+   "num": "077",
+   "code": "OGN-077",
+   "name": "Zhonya's Hourglass",
+   "slug": "zhonyas-hourglass",
+   "rarity": "rare",
+   "price_usd": 19.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-032-221_full.png",
+   "set": "SFD",
+   "num": "032",
+   "code": "SFD-032",
+   "name": "Disarming Rake",
+   "slug": "disarming-rake",
+   "rarity": "common",
+   "price_usd": 0.2,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-045-166_full.png",
+   "set": "VEN",
+   "num": "045",
+   "code": "VEN-045",
+   "name": "Helm of Suppression",
+   "slug": "helm-of-suppression",
+   "rarity": "epic",
+   "price_usd": 3.21,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-146-166_full.png",
+   "set": "VEN",
+   "num": "146",
+   "code": "VEN-146",
+   "name": "Siphoning Strike",
+   "slug": "siphoning-strike",
+   "rarity": "epic",
+   "price_usd": 2.87,
+   "domains": [
+    "calm",
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-122-298_full.png",
+   "set": "OGN",
+   "num": "122",
+   "code": "OGN-122",
+   "name": "Time Warp",
+   "slug": "time-warp",
+   "rarity": "epic",
+   "price_usd": 67.93,
+   "domains": [
+    "mind"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 14:11:08"
+}

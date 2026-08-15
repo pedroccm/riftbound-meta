@@ -1,0 +1,542 @@
+{
+ "id": 226281,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-li-li-ya-226281",
+ "rank": "4th",
+ "rank_num": 4,
+ "record": "",
+ "legend": "Lillia, Bashful Bloom",
+ "legend_img": "/img/cards/riftbound/UNL/unl-230-219_tile.png",
+ "name": "莉莉娅",
+ "player": "优极客.无痕",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "calm",
+  "mind"
+ ],
+ "players": 128,
+ "store": "叙叙亭",
+ "tournament": "S4 Shanghai City Challenge",
+ "stars": 3,
+ "price_usd": 145.43,
+ "spiciness": 29,
+ "date": "2026-08-08",
+ "archetype": "Calm Mind",
+ "archetype_slug": "calm-mind",
+ "tournament_id": 13739,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-230-219_full.png",
+   "set": "UNL",
+   "num": "230",
+   "code": "UNL-230",
+   "name": "Lillia, Bashful Bloom",
+   "slug": "lillia-bashful-bloom",
+   "rarity": "rare",
+   "price_usd": 0.16,
+   "domains": [
+    "calm",
+    "mind"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-082a-219_full.png",
+   "set": "UNL",
+   "num": "082a",
+   "code": "UNL-082a",
+   "name": "Lillia, Fae Fawn",
+   "slug": "lillia-fae-fawn",
+   "rarity": "rare",
+   "price_usd": 0.24,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-036-221_full.png",
+   "set": "SFD",
+   "num": "036",
+   "code": "SFD-036",
+   "name": "Lonely Poro",
+   "slug": "lonely-poro",
+   "rarity": "common",
+   "price_usd": 0.19,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-069-221_full.png",
+   "set": "SFD",
+   "num": "069",
+   "code": "SFD-069",
+   "name": "Plundering Poro",
+   "slug": "plundering-poro",
+   "rarity": "common",
+   "price_usd": 0.2,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-103-298_full.png",
+   "set": "OGN",
+   "num": "103",
+   "code": "OGN-103",
+   "name": "Ravenbloom Student",
+   "slug": "ravenbloom-student",
+   "rarity": "uncommon",
+   "price_usd": 0.28,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-082a-219_full.png",
+   "set": "UNL",
+   "num": "082a",
+   "code": "UNL-082a",
+   "name": "Lillia, Fae Fawn",
+   "slug": "lillia-fae-fawn",
+   "rarity": "rare",
+   "price_usd": 0.24,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-106-298_full.png",
+   "set": "OGN",
+   "num": "106",
+   "code": "OGN-106",
+   "name": "Sprite Mother",
+   "slug": "sprite-mother",
+   "rarity": "uncommon",
+   "price_usd": 0.3,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-080-219_full.png",
+   "set": "UNL",
+   "num": "080",
+   "code": "UNL-080",
+   "name": "Hwei, Brooding Painter",
+   "slug": "hwei-brooding-painter",
+   "rarity": "rare",
+   "price_usd": 3.67,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-084-219_full.png",
+   "set": "UNL",
+   "num": "084",
+   "code": "UNL-084",
+   "name": "Sprite Queen",
+   "slug": "sprite-queen",
+   "rarity": "rare",
+   "price_usd": 0.2,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-116-298_full.png",
+   "set": "OGN",
+   "num": "116",
+   "code": "OGN-116",
+   "name": "Thousand-Tailed Watcher",
+   "slug": "thousand-tailed-watcher",
+   "rarity": "rare",
+   "price_usd": 28.91,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-051-221_full.png",
+   "set": "SFD",
+   "num": "051",
+   "code": "SFD-051",
+   "name": "Guardian Angel",
+   "slug": "guardian-angel",
+   "rarity": "rare",
+   "price_usd": 1.35,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-060-298_full.png",
+   "set": "OGN",
+   "num": "060",
+   "code": "OGN-060",
+   "name": "Mask of Foresight",
+   "slug": "mask-of-foresight",
+   "rarity": "uncommon",
+   "price_usd": 0.42,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-078-219_full.png",
+   "set": "UNL",
+   "num": "078",
+   "code": "UNL-078",
+   "name": "Sprite Fountain",
+   "slug": "sprite-fountain",
+   "rarity": "uncommon",
+   "price_usd": 2.56,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-043-298_full.png",
+   "set": "OGN",
+   "num": "043",
+   "code": "OGN-043",
+   "name": "Charm",
+   "slug": "charm",
+   "rarity": "common",
+   "price_usd": 1.01,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-045-298_full.png",
+   "set": "OGN",
+   "num": "045",
+   "code": "OGN-045",
+   "name": "Defy",
+   "slug": "defy",
+   "rarity": "common",
+   "price_usd": 4.63,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-046-298_full.png",
+   "set": "OGN",
+   "num": "046",
+   "code": "OGN-046",
+   "name": "En Garde",
+   "slug": "en-garde",
+   "rarity": "common",
+   "price_usd": 0.24,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-095-298_full.png",
+   "set": "OGN",
+   "num": "095",
+   "code": "OGN-095",
+   "name": "Stupefy",
+   "slug": "stupefy",
+   "rarity": "common",
+   "price_usd": 0.24,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-058-298_full.png",
+   "set": "OGN",
+   "num": "058",
+   "code": "OGN-058",
+   "name": "Discipline",
+   "slug": "discipline",
+   "rarity": "uncommon",
+   "price_usd": 2.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-043-221_full.png",
+   "set": "SFD",
+   "num": "043",
+   "code": "SFD-043",
+   "name": "Emperor's Divide",
+   "slug": "emperors-divide",
+   "rarity": "uncommon",
+   "price_usd": 0.34,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-083-219_full.png",
+   "set": "UNL",
+   "num": "083",
+   "code": "UNL-083",
+   "name": "Smoke and Mirrors",
+   "slug": "smoke-and-mirrors",
+   "rarity": "rare",
+   "price_usd": 0.39,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-093-298_full.png",
+   "set": "OGN",
+   "num": "093",
+   "code": "OGN-093",
+   "name": "Smoke Screen",
+   "slug": "smoke-screen",
+   "rarity": "common",
+   "price_usd": 0.17,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-069-219_full.png",
+   "set": "UNL",
+   "num": "069",
+   "code": "UNL-069",
+   "name": "Sprite Burst",
+   "slug": "sprite-burst",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-209-219_full.png",
+   "set": "UNL",
+   "num": "209",
+   "code": "UNL-209",
+   "name": "Dusk Rose Lab",
+   "slug": "dusk-rose-lab",
+   "rarity": "uncommon",
+   "price_usd": 0.07,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-210-219_full.png",
+   "set": "UNL",
+   "num": "210",
+   "code": "UNL-210",
+   "name": "Forbidding Waste",
+   "slug": "forbidding-waste",
+   "rarity": "uncommon",
+   "price_usd": 0.09,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-220-221_full.png",
+   "set": "SFD",
+   "num": "220",
+   "code": "SFD-220",
+   "name": "Treasure Hoard",
+   "slug": "treasure-hoard",
+   "rarity": "uncommon",
+   "price_usd": 0.13,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 5,
+   "image": "/img/cards/riftbound/OGN/ogn-042-298_full.png",
+   "set": "OGN",
+   "num": "042",
+   "code": "OGN-042",
+   "name": "Calm Rune",
+   "slug": "calm-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 7,
+   "image": "/img/cards/riftbound/OGN/ogn-089a-298_full.png",
+   "set": "OGN",
+   "num": "089a",
+   "code": "OGN-089a",
+   "name": "Mind Rune",
+   "slug": "mind-rune",
+   "rarity": "common",
+   "price_usd": 0.1,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/VEN/ven-061-166_full.png",
+   "set": "VEN",
+   "num": "061",
+   "code": "VEN-061",
+   "name": "Decree of Insight",
+   "slug": "decree-of-insight",
+   "rarity": "rare",
+   "price_usd": 0.23,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-190-219_full.png",
+   "set": "UNL",
+   "num": "190",
+   "code": "UNL-190",
+   "name": "Lilting Lullaby",
+   "slug": "lilting-lullaby",
+   "rarity": "epic",
+   "price_usd": 1.54,
+   "domains": [
+    "calm",
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-032-221_full.png",
+   "set": "SFD",
+   "num": "032",
+   "code": "SFD-032",
+   "name": "Disarming Rake",
+   "slug": "disarming-rake",
+   "rarity": "common",
+   "price_usd": 0.2,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-052-221_full.png",
+   "set": "SFD",
+   "num": "052",
+   "code": "SFD-052",
+   "name": "Heart of Dark Ice",
+   "slug": "heart-of-dark-ice",
+   "rarity": "rare",
+   "price_usd": 0.25,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-105-298_full.png",
+   "set": "OGN",
+   "num": "105",
+   "code": "OGN-105",
+   "name": "Singularity",
+   "slug": "singularity",
+   "rarity": "uncommon",
+   "price_usd": 1.34,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-116-298_full.png",
+   "set": "OGN",
+   "num": "116",
+   "code": "OGN-116",
+   "name": "Thousand-Tailed Watcher",
+   "slug": "thousand-tailed-watcher",
+   "rarity": "rare",
+   "price_usd": 28.91,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-123-298_full.png",
+   "set": "OGN",
+   "num": "123",
+   "code": "OGN-123",
+   "name": "Unchecked Power",
+   "slug": "unchecked-power",
+   "rarity": "epic",
+   "price_usd": 32.8,
+   "domains": [
+    "mind"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 13:58:26"
+}

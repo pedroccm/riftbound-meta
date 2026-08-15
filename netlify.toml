@@ -1,0 +1,11 @@
+[build]
+  base = "web"
+  command = "cp ../riftbound.db ./riftbound.db && npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "22"
+  SECRETS_SCAN_SMART_DETECTION_ENABLED = "false"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

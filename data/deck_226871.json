@@ -1,0 +1,421 @@
+{
+ "id": 226871,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-viktor-aktualisiert-226871",
+ "rank": "3rd",
+ "rank_num": 3,
+ "record": "4-0-0",
+ "legend": "Viktor, Herald of the Arcane",
+ "legend_img": "/img/cards/riftbound/OGN/ogn-308-298_tile.png",
+ "name": "Viktor aktualisiert",
+ "player": "Mcyumyum",
+ "meta": "Vendetta",
+ "card_count": 62,
+ "domains": [
+  "mind",
+  "order"
+ ],
+ "players": 51,
+ "store": "Amzicards",
+ "tournament": "Riftbound Online Series Season 4 Week 2",
+ "stars": 2,
+ "price_usd": 315.44,
+ "spiciness": 58,
+ "date": "2026-08-09",
+ "archetype": "Mind Order",
+ "archetype_slug": "mind-order",
+ "tournament_id": 13681,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-308-298_full.png",
+   "set": "OGN",
+   "num": "308",
+   "code": "OGN-308",
+   "name": "Viktor, Herald of the Arcane",
+   "slug": "viktor-herald-of-the-arcane",
+   "rarity": "showcase",
+   "price_usd": 0.34,
+   "domains": [
+    "mind",
+    "order"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-246a-298_full.png",
+   "set": "OGN",
+   "num": "246a",
+   "code": "OGN-246a",
+   "name": "Viktor, Leader",
+   "slug": "viktor-leader",
+   "rarity": "epic",
+   "price_usd": 3.16,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-155-221_full.png",
+   "set": "SFD",
+   "num": "155",
+   "code": "SFD-155",
+   "name": "Honest Broker",
+   "slug": "honest-broker",
+   "rarity": "common",
+   "price_usd": 0.15,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-096-298_full.png",
+   "set": "OGN",
+   "num": "096",
+   "code": "OGN-096",
+   "name": "Watchful Sentry",
+   "slug": "watchful-sentry",
+   "rarity": "common",
+   "price_usd": 0.17,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-176-221_full.png",
+   "set": "SFD",
+   "num": "176",
+   "code": "SFD-176",
+   "name": "Xin Zhao, Vigilant",
+   "slug": "xin-zhao-vigilant",
+   "rarity": "rare",
+   "price_usd": 0.58,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-116-298_full.png",
+   "set": "OGN",
+   "num": "116",
+   "code": "OGN-116",
+   "name": "Thousand-Tailed Watcher",
+   "slug": "thousand-tailed-watcher",
+   "rarity": "rare",
+   "price_usd": 28.91,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-234-298_full.png",
+   "set": "OGN",
+   "num": "234",
+   "code": "OGN-234",
+   "name": "Harnessed Dragon",
+   "slug": "harnessed-dragon",
+   "rarity": "rare",
+   "price_usd": 1.72,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "gear",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-245-298_full.png",
+   "set": "OGN",
+   "num": "245",
+   "code": "OGN-245",
+   "name": "Seal of Unity",
+   "slug": "seal-of-unity",
+   "rarity": "epic",
+   "price_usd": 26.27,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-080-221_full.png",
+   "set": "SFD",
+   "num": "080",
+   "code": "SFD-080",
+   "name": "Bellows Breath",
+   "slug": "bellows-breath",
+   "rarity": "rare",
+   "price_usd": 4.07,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-095-298_full.png",
+   "set": "OGN",
+   "num": "095",
+   "code": "OGN-095",
+   "name": "Stupefy",
+   "slug": "stupefy",
+   "rarity": "common",
+   "price_usd": 0.24,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-162-221_full.png",
+   "set": "SFD",
+   "num": "162",
+   "code": "SFD-162",
+   "name": "Blood Money",
+   "slug": "blood-money",
+   "rarity": "uncommon",
+   "price_usd": 0.17,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-209-298_full.png",
+   "set": "OGN",
+   "num": "209",
+   "code": "OGN-209",
+   "name": "Cull the Weak",
+   "slug": "cull-the-weak",
+   "rarity": "common",
+   "price_usd": 0.34,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-213-298_full.png",
+   "set": "OGN",
+   "num": "213",
+   "code": "OGN-213",
+   "name": "Hidden Blade",
+   "slug": "hidden-blade",
+   "rarity": "common",
+   "price_usd": 1.08,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-224-298_full.png",
+   "set": "OGN",
+   "num": "224",
+   "code": "OGN-224",
+   "name": "Salvage",
+   "slug": "salvage",
+   "rarity": "uncommon",
+   "price_usd": 4.77,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-070-221_full.png",
+   "set": "SFD",
+   "num": "070",
+   "code": "SFD-070",
+   "name": "Wages of Pain",
+   "slug": "wages-of-pain",
+   "rarity": "common",
+   "price_usd": 0.16,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-221-298_full.png",
+   "set": "OGN",
+   "num": "221",
+   "code": "OGN-221",
+   "name": "Imperial Decree",
+   "slug": "imperial-decree",
+   "rarity": "uncommon",
+   "price_usd": 0.72,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-105-298_full.png",
+   "set": "OGN",
+   "num": "105",
+   "code": "OGN-105",
+   "name": "Singularity",
+   "slug": "singularity",
+   "rarity": "uncommon",
+   "price_usd": 1.34,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-122-298_full.png",
+   "set": "OGN",
+   "num": "122",
+   "code": "OGN-122",
+   "name": "Time Warp",
+   "slug": "time-warp",
+   "rarity": "epic",
+   "price_usd": 67.93,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-217-221_full.png",
+   "set": "SFD",
+   "num": "217",
+   "code": "SFD-217",
+   "name": "Seat of Power",
+   "slug": "seat-of-power",
+   "rarity": "uncommon",
+   "price_usd": 0.16,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-295-298_full.png",
+   "set": "OGN",
+   "num": "295",
+   "code": "OGN-295",
+   "name": "Vilemaw's Lair",
+   "slug": "vilemaws-lair",
+   "rarity": "uncommon",
+   "price_usd": 0.27,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-298-298_full.png",
+   "set": "OGN",
+   "num": "298",
+   "code": "OGN-298",
+   "name": "Zaun Warrens",
+   "slug": "zaun-warrens",
+   "rarity": "uncommon",
+   "price_usd": 0.21,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-089a-298_full.png",
+   "set": "OGN",
+   "num": "089a",
+   "code": "OGN-089a",
+   "name": "Mind Rune",
+   "slug": "mind-rune",
+   "rarity": "common",
+   "price_usd": 0.1,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 6,
+   "image": "/img/cards/riftbound/OGN/ogn-214a-298_full.png",
+   "set": "OGN",
+   "num": "214a",
+   "code": "OGN-214a",
+   "name": "Order Rune",
+   "slug": "order-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-224-298_full.png",
+   "set": "OGN",
+   "num": "224",
+   "code": "OGN-224",
+   "name": "Salvage",
+   "slug": "salvage",
+   "rarity": "uncommon",
+   "price_usd": 4.77,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-074-221_full.png",
+   "set": "SFD",
+   "num": "074",
+   "code": "SFD-074",
+   "name": "Pickpocket",
+   "slug": "pickpocket",
+   "rarity": "uncommon",
+   "price_usd": 0.17,
+   "domains": [
+    "mind"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-092-298_full.png",
+   "set": "OGN",
+   "num": "092",
+   "code": "OGN-092",
+   "name": "Riptide Rex",
+   "slug": "riptide-rex",
+   "rarity": "common",
+   "price_usd": 0.14,
+   "domains": [
+    "mind"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 13:54:30"
+}

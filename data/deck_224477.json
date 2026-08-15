@@ -1,0 +1,497 @@
+{
+ "id": 224477,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-ambessa-se-come-una-hamburguesa-224477",
+ "rank": "1st",
+ "rank_num": 1,
+ "record": "3-0-1",
+ "legend": "Ambessa, Matriarch of War",
+ "legend_img": "/img/cards/riftbound/VEN/ven-153-166_tile.png",
+ "name": "Ambessa se come una hamburguesa",
+ "player": "RomаRomа",
+ "meta": "Vendetta",
+ "card_count": 66,
+ "domains": [
+  "body",
+  "order"
+ ],
+ "players": 15,
+ "store": "Card Citadel",
+ "tournament": "Nexus Night Card Citadel",
+ "stars": 1,
+ "price_usd": 140.47,
+ "spiciness": 42,
+ "date": "2026-08-05",
+ "archetype": "Body Order",
+ "archetype_slug": "body-order",
+ "tournament_id": 13697,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-153-166_full.png",
+   "set": "VEN",
+   "num": "153",
+   "code": "VEN-153",
+   "name": "Ambessa, Matriarch of War",
+   "slug": "ambessa-matriarch-of-war",
+   "rarity": "rare",
+   "price_usd": 0.12,
+   "domains": [
+    "body",
+    "order"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-084a-166_full.png",
+   "set": "VEN",
+   "num": "084a",
+   "code": "VEN-084a",
+   "name": "Ambessa, The Wolf",
+   "slug": "ambessa-the-wolf",
+   "rarity": "rare",
+   "price_usd": 0.19,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-153-219_full.png",
+   "set": "UNL",
+   "num": "153",
+   "code": "UNL-153",
+   "name": "Carrion Dredger",
+   "slug": "carrion-dredger",
+   "rarity": "common",
+   "price_usd": 0.08,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-112-219_full.png",
+   "set": "UNL",
+   "num": "112",
+   "code": "UNL-112",
+   "name": "Irresistible Faefolk",
+   "slug": "irresistible-faefolk",
+   "rarity": "rare",
+   "price_usd": 6.17,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-074-166_full.png",
+   "set": "VEN",
+   "num": "074",
+   "code": "VEN-074",
+   "name": "Legion Marauder",
+   "slug": "legion-marauder",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-128-166_full.png",
+   "set": "VEN",
+   "num": "128",
+   "code": "VEN-128",
+   "name": "Noxian Emissary",
+   "slug": "noxian-emissary",
+   "rarity": "uncommon",
+   "price_usd": 0.12,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-132-298_full.png",
+   "set": "OGN",
+   "num": "132",
+   "code": "OGN-132",
+   "name": "First Mate",
+   "slug": "first-mate",
+   "rarity": "common",
+   "price_usd": 0.25,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-134-166_full.png",
+   "set": "VEN",
+   "num": "134",
+   "code": "VEN-134",
+   "name": "Kayle, Justified",
+   "slug": "kayle-justified",
+   "rarity": "rare",
+   "price_usd": 0.55,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-097-219_full.png",
+   "set": "UNL",
+   "num": "097",
+   "code": "UNL-097",
+   "name": "Kinkou Initiate",
+   "slug": "kinkou-initiate",
+   "rarity": "common",
+   "price_usd": 0.11,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-120-219_full.png",
+   "set": "UNL",
+   "num": "120",
+   "code": "UNL-120",
+   "name": "Rengar, Trophy Hunter",
+   "slug": "rengar-trophy-hunter",
+   "rarity": "epic",
+   "price_usd": 22.0,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-176a-219_full.png",
+   "set": "UNL",
+   "num": "176a",
+   "code": "UNL-176a",
+   "name": "Vi, Peacekeeper",
+   "slug": "vi-peacekeeper",
+   "rarity": "rare",
+   "price_usd": 3.19,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/SFD/sfd-097-221_full.png",
+   "set": "SFD",
+   "num": "097",
+   "code": "SFD-097",
+   "name": "Punch First",
+   "slug": "punch-first",
+   "rarity": "common",
+   "price_usd": 0.21,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-106-219_full.png",
+   "set": "UNL",
+   "num": "106",
+   "code": "UNL-106",
+   "name": "Repulse",
+   "slug": "repulse",
+   "rarity": "uncommon",
+   "price_usd": 0.35,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-156-298_full.png",
+   "set": "OGN",
+   "num": "156",
+   "code": "OGN-156",
+   "name": "Sabotage",
+   "slug": "sabotage",
+   "rarity": "rare",
+   "price_usd": 19.07,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-128-298_full.png",
+   "set": "OGN",
+   "num": "128",
+   "code": "OGN-128",
+   "name": "Challenge",
+   "slug": "challenge",
+   "rarity": "common",
+   "price_usd": 0.21,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-213-298_full.png",
+   "set": "OGN",
+   "num": "213",
+   "code": "OGN-213",
+   "name": "Hidden Blade",
+   "slug": "hidden-blade",
+   "rarity": "common",
+   "price_usd": 1.08,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-154-166_full.png",
+   "set": "VEN",
+   "num": "154",
+   "code": "VEN-154",
+   "name": "Public Execution",
+   "slug": "public-execution",
+   "rarity": "epic",
+   "price_usd": 3.68,
+   "domains": [
+    "body",
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-175-219_full.png",
+   "set": "UNL",
+   "num": "175",
+   "code": "UNL-175",
+   "name": "Tactical Retreat",
+   "slug": "tactical-retreat",
+   "rarity": "rare",
+   "price_usd": 0.21,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/VEN/ven-083-166_full.png",
+   "set": "VEN",
+   "num": "083",
+   "code": "VEN-083",
+   "name": "Rampage",
+   "slug": "rampage",
+   "rarity": "uncommon",
+   "price_usd": 0.19,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-163-166_full.png",
+   "set": "VEN",
+   "num": "163",
+   "code": "VEN-163",
+   "name": "Risen Altar",
+   "slug": "risen-altar",
+   "rarity": "uncommon",
+   "price_usd": 0.11,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-164-166_full.png",
+   "set": "VEN",
+   "num": "164",
+   "code": "VEN-164",
+   "name": "Sandswept Tomb",
+   "slug": "sandswept-tomb",
+   "rarity": "uncommon",
+   "price_usd": 0.1,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-218-221_full.png",
+   "set": "SFD",
+   "num": "218",
+   "code": "SFD-218",
+   "name": "Sunken Temple",
+   "slug": "sunken-temple",
+   "rarity": "uncommon",
+   "price_usd": 0.15,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 7,
+   "image": "/img/cards/riftbound/OGN/ogn-126-298_full.png",
+   "set": "OGN",
+   "num": "126",
+   "code": "OGN-126",
+   "name": "Body Rune",
+   "slug": "body-rune",
+   "rarity": "common",
+   "price_usd": 0.07,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 5,
+   "image": "/img/cards/riftbound/OGN/ogn-214a-298_full.png",
+   "set": "OGN",
+   "num": "214a",
+   "code": "OGN-214a",
+   "name": "Order Rune",
+   "slug": "order-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-085-166_full.png",
+   "set": "VEN",
+   "num": "085",
+   "code": "VEN-085",
+   "name": "Decree of Strength",
+   "slug": "decree-of-strength",
+   "rarity": "rare",
+   "price_usd": 0.28,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-106-219_full.png",
+   "set": "UNL",
+   "num": "106",
+   "code": "UNL-106",
+   "name": "Repulse",
+   "slug": "repulse",
+   "rarity": "uncommon",
+   "price_usd": 0.35,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-156-298_full.png",
+   "set": "OGN",
+   "num": "156",
+   "code": "OGN-156",
+   "name": "Sabotage",
+   "slug": "sabotage",
+   "rarity": "rare",
+   "price_usd": 19.07,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-224-298_full.png",
+   "set": "OGN",
+   "num": "224",
+   "code": "OGN-224",
+   "name": "Salvage",
+   "slug": "salvage",
+   "rarity": "uncommon",
+   "price_usd": 4.77,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-109-221_full.png",
+   "set": "SFD",
+   "num": "109",
+   "code": "SFD-109",
+   "name": "Akshan, Mischievous",
+   "slug": "akshan-mischievous",
+   "rarity": "rare",
+   "price_usd": 1.86,
+   "domains": [
+    "body"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/VEN/ven-136-166_full.png",
+   "set": "VEN",
+   "num": "136",
+   "code": "VEN-136",
+   "name": "Ambessa, Respected and Feared",
+   "slug": "ambessa-respected-and-feared",
+   "rarity": "epic",
+   "price_usd": 1.02,
+   "domains": [
+    "order"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-105-221_full.png",
+   "set": "SFD",
+   "num": "105",
+   "code": "SFD-105",
+   "name": "Ruin Runner",
+   "slug": "ruin-runner",
+   "rarity": "uncommon",
+   "price_usd": 0.36,
+   "domains": [
+    "body"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 14:06:24"
+}

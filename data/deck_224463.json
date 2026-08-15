@@ -1,0 +1,587 @@
+{
+ "id": 224463,
+ "url": "https://riftdecks.com/riftbound-metagame/deck-veg-224463",
+ "rank": "Top4",
+ "rank_num": 99,
+ "record": "",
+ "legend": "Vex, Gloomist",
+ "legend_img": "/img/cards/riftbound/UNL/unl-193-219_tile.png",
+ "name": "veg",
+ "player": "-",
+ "meta": "Vendetta",
+ "card_count": 64,
+ "domains": [
+  "calm",
+  "chaos"
+ ],
+ "players": 16,
+ "store": "沉淀桌游馆",
+ "tournament": "Riftbound Tournament - BO1",
+ "stars": 2,
+ "price_usd": 140.22,
+ "spiciness": 65,
+ "date": "2026-08-06",
+ "archetype": "Calm Chaos",
+ "archetype_slug": "calm-chaos",
+ "tournament_id": 13704,
+ "cards": [
+  {
+   "type": "legend",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-193-219_full.png",
+   "set": "UNL",
+   "num": "193",
+   "code": "UNL-193",
+   "name": "Vex, Gloomist",
+   "slug": "vex-gloomist",
+   "rarity": "rare",
+   "price_usd": 0.17,
+   "domains": [
+    "calm",
+    "chaos"
+   ]
+  },
+  {
+   "type": "champion",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-150a-219_full.png",
+   "set": "UNL",
+   "num": "150a",
+   "code": "UNL-150a",
+   "name": "Vex, Apathetic",
+   "slug": "vex-apathetic",
+   "rarity": "epic",
+   "price_usd": 14.74,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-036-219_full.png",
+   "set": "UNL",
+   "num": "036",
+   "code": "UNL-036",
+   "name": "Mutated Mouser",
+   "slug": "mutated-mouser",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-128-221_full.png",
+   "set": "SFD",
+   "num": "128",
+   "code": "SFD-128",
+   "name": "Overzealous Fan",
+   "slug": "overzealous-fan",
+   "rarity": "common",
+   "price_usd": 0.11,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-130-221_full.png",
+   "set": "SFD",
+   "num": "130",
+   "code": "SFD-130",
+   "name": "Treasure Hunter",
+   "slug": "treasure-hunter",
+   "rarity": "common",
+   "price_usd": 0.14,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-041-219_full.png",
+   "set": "UNL",
+   "num": "041",
+   "code": "UNL-041",
+   "name": "Allay, Eager Admirer",
+   "slug": "allay-eager-admirer",
+   "rarity": "uncommon",
+   "price_usd": 0.14,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-053-221_full.png",
+   "set": "SFD",
+   "num": "053",
+   "code": "SFD-053",
+   "name": "Janna, Savior",
+   "slug": "janna-savior",
+   "rarity": "rare",
+   "price_usd": 0.47,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-052-219_full.png",
+   "set": "UNL",
+   "num": "052",
+   "code": "UNL-052",
+   "name": "Nami, Headstrong",
+   "slug": "nami-headstrong",
+   "rarity": "rare",
+   "price_usd": 0.32,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-194-219_full.png",
+   "set": "UNL",
+   "num": "194",
+   "code": "UNL-194",
+   "name": "Shadow",
+   "slug": "shadow",
+   "rarity": "epic",
+   "price_usd": 0.41,
+   "domains": [
+    "calm",
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-150a-219_full.png",
+   "set": "UNL",
+   "num": "150a",
+   "code": "UNL-150a",
+   "name": "Vex, Apathetic",
+   "slug": "vex-apathetic",
+   "rarity": "epic",
+   "price_usd": 14.74,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-146-221_full.png",
+   "set": "SFD",
+   "num": "146",
+   "code": "SFD-146",
+   "name": "Vex, Cheerless",
+   "slug": "vex-cheerless",
+   "rarity": "rare",
+   "price_usd": 0.42,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "unit",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-055a-219_full.png",
+   "set": "UNL",
+   "num": "055a",
+   "code": "UNL-055a",
+   "name": "Vex, Mocking",
+   "slug": "vex-mocking",
+   "rarity": "rare",
+   "price_usd": 0.2,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-043-298_full.png",
+   "set": "OGN",
+   "num": "043",
+   "code": "OGN-043",
+   "name": "Charm",
+   "slug": "charm",
+   "rarity": "common",
+   "price_usd": 1.01,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-045-298_full.png",
+   "set": "OGN",
+   "num": "045",
+   "code": "OGN-045",
+   "name": "Defy",
+   "slug": "defy",
+   "rarity": "common",
+   "price_usd": 4.63,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/UNL/unl-134-219_full.png",
+   "set": "UNL",
+   "num": "134",
+   "code": "UNL-134",
+   "name": "Existential Dread",
+   "slug": "existential-dread",
+   "rarity": "uncommon",
+   "price_usd": 0.21,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-169-298_full.png",
+   "set": "OGN",
+   "num": "169",
+   "code": "OGN-169",
+   "name": "Gust",
+   "slug": "gust",
+   "rarity": "common",
+   "price_usd": 0.17,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-139-219_full.png",
+   "set": "UNL",
+   "num": "139",
+   "code": "UNL-139",
+   "name": "Bone Skewer",
+   "slug": "bone-skewer",
+   "rarity": "rare",
+   "price_usd": 0.32,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-058-298_full.png",
+   "set": "OGN",
+   "num": "058",
+   "code": "OGN-058",
+   "name": "Discipline",
+   "slug": "discipline",
+   "rarity": "uncommon",
+   "price_usd": 2.04,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-136-221_full.png",
+   "set": "SFD",
+   "num": "136",
+   "code": "SFD-136",
+   "name": "Hard Bargain",
+   "slug": "hard-bargain",
+   "rarity": "uncommon",
+   "price_usd": 1.47,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-045-221_full.png",
+   "set": "SFD",
+   "num": "045",
+   "code": "SFD-045",
+   "name": "Not So Fast",
+   "slug": "not-so-fast",
+   "rarity": "uncommon",
+   "price_usd": 2.0,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 3,
+   "image": "/img/cards/riftbound/OGN/ogn-172-298_full.png",
+   "set": "OGN",
+   "num": "172",
+   "code": "OGN-172",
+   "name": "Rebuke",
+   "slug": "rebuke",
+   "rarity": "common",
+   "price_usd": 0.27,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-173-298_full.png",
+   "set": "OGN",
+   "num": "173",
+   "code": "OGN-173",
+   "name": "Ride the Wind",
+   "slug": "ride-the-wind",
+   "rarity": "common",
+   "price_usd": 1.25,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-040-221_full.png",
+   "set": "SFD",
+   "num": "040",
+   "code": "SFD-040",
+   "name": "Thwonk!",
+   "slug": "thwonk",
+   "rarity": "common",
+   "price_usd": 0.16,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-125-219_full.png",
+   "set": "UNL",
+   "num": "125",
+   "code": "UNL-125",
+   "name": "Lunar Boon",
+   "slug": "lunar-boon",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 2,
+   "image": "/img/cards/riftbound/UNL/unl-128-219_full.png",
+   "set": "UNL",
+   "num": "128",
+   "code": "UNL-128",
+   "name": "Star-Crossed",
+   "slug": "star-crossed",
+   "rarity": "common",
+   "price_usd": 0.19,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "spell",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-064-298_full.png",
+   "set": "OGN",
+   "num": "064",
+   "code": "OGN-064",
+   "name": "Wind Wall",
+   "slug": "wind-wall",
+   "rarity": "uncommon",
+   "price_usd": 0.32,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-288-298_full.png",
+   "set": "OGN",
+   "num": "288",
+   "code": "OGN-288",
+   "name": "Startipped Peak",
+   "slug": "startipped-peak",
+   "rarity": "uncommon",
+   "price_usd": 0.26,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-289-298_full.png",
+   "set": "OGN",
+   "num": "289",
+   "code": "OGN-289",
+   "name": "Targon's Peak",
+   "slug": "targons-peak",
+   "rarity": "uncommon",
+   "price_usd": 0.23,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "battlefields",
+   "qty": 1,
+   "image": "/img/cards/riftbound/OGN/ogn-295-298_full.png",
+   "set": "OGN",
+   "num": "295",
+   "code": "OGN-295",
+   "name": "Vilemaw's Lair",
+   "slug": "vilemaws-lair",
+   "rarity": "uncommon",
+   "price_usd": 0.27,
+   "domains": [
+    "colorless"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 5,
+   "image": "/img/cards/riftbound/OGN/ogn-042-298_full.png",
+   "set": "OGN",
+   "num": "042",
+   "code": "OGN-042",
+   "name": "Calm Rune",
+   "slug": "calm-rune",
+   "rarity": "common",
+   "price_usd": 0.09,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "runes",
+   "qty": 7,
+   "image": "/img/cards/riftbound/OGN/ogn-166-298_full.png",
+   "set": "OGN",
+   "num": "166",
+   "code": "OGN-166",
+   "name": "Chaos Rune",
+   "slug": "chaos-rune",
+   "rarity": "common",
+   "price_usd": 0.08,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/OGN/ogn-179-298_full.png",
+   "set": "OGN",
+   "num": "179",
+   "code": "OGN-179",
+   "name": "Acceptable Losses",
+   "slug": "acceptable-losses",
+   "rarity": "uncommon",
+   "price_usd": 0.62,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-145-221_full.png",
+   "set": "SFD",
+   "num": "145",
+   "code": "SFD-145",
+   "name": "Switcheroo",
+   "slug": "switcheroo",
+   "rarity": "rare",
+   "price_usd": 1.61,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 2,
+   "image": "/img/cards/riftbound/SFD/sfd-032-221_full.png",
+   "set": "SFD",
+   "num": "032",
+   "code": "SFD-032",
+   "name": "Disarming Rake",
+   "slug": "disarming-rake",
+   "rarity": "common",
+   "price_usd": 0.2,
+   "domains": [
+    "calm"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/SFD/sfd-150-221_full.png",
+   "set": "SFD",
+   "num": "150",
+   "code": "SFD-150",
+   "name": "Last Rites",
+   "slug": "last-rites",
+   "rarity": "epic",
+   "price_usd": 56.9,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-128-219_full.png",
+   "set": "UNL",
+   "num": "128",
+   "code": "UNL-128",
+   "name": "Star-Crossed",
+   "slug": "star-crossed",
+   "rarity": "common",
+   "price_usd": 0.19,
+   "domains": [
+    "chaos"
+   ]
+  },
+  {
+   "type": "sideboard",
+   "qty": 1,
+   "image": "/img/cards/riftbound/UNL/unl-060-219_full.png",
+   "set": "UNL",
+   "num": "060",
+   "code": "UNL-060",
+   "name": "Vilemaw",
+   "slug": "vilemaw",
+   "rarity": "epic",
+   "price_usd": 20.3,
+   "domains": [
+    "calm"
+   ]
+  }
+ ],
+ "scraped_at": "2026-08-13 14:04:59"
+}
