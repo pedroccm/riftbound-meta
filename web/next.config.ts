@@ -9,6 +9,11 @@ const config: NextConfig = {
   outputFileTracingIncludes: {
     '/**': ['./riftbound.db'],
   },
+  // as imagens (public/img, ~330MB) sao servidas pelo CDN como estatico; NAO
+  // podem entrar no bundle da funcao (Netlify recusa: "request body too large")
+  outputFileTracingExcludes: {
+    '/**': ['./public/img/**/*'],
+  },
 }
 
 export default config
