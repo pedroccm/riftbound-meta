@@ -44,3 +44,14 @@ re-cunha sozinho quando o cookie cai. O cookie só vale no MESMO IP + User-Agent
 (default 14). Override: `$env:DAYS='30'`, `$env:RANK='top8'`,
 `$env:START_DATE='2026-07-01'`. Deck já salvo em `data/` nunca é re-baixado
 (deck publicado é imutável). **Nunca apagar `data/`.**
+
+## Deploy (Netlify, conta gaiadev-pedro)
+
+- Repo: https://github.com/pedroccm/riftbound-meta (conta `pedroccm`)
+- Site: riftbound-meta-app.netlify.app (base `web/`, plugin `@netlify/plugin-nextjs`,
+  Node 22 obrigatório por causa do `node:sqlite`)
+- O `.db` e as imagens (`web/public/img`, ~330MB) VÃO no git: o site é servido
+  a partir deles. O build copia `../riftbound.db` pra `web/` e o tracing do Next
+  leva junto na função serverless (ver `next.config.ts` + `lib/data.ts`).
+- Fluxo de atualização = rotina local + `git add -A && git commit && git push`
+  (o push dispara o deploy). Sem push, o site fica com o snapshot anterior.
