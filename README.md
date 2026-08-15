@@ -48,10 +48,15 @@ re-cunha sozinho quando o cookie cai. O cookie só vale no MESMO IP + User-Agent
 ## Deploy (Netlify, conta gaiadev-pedro)
 
 - Repo: https://github.com/pedroccm/riftbound-meta (conta `pedroccm`)
-- Site: meta-rb-tcg.netlify.app ("riftbound-*" e "lol-*" são recusados pelo Netlify) (base `web/`, plugin `@netlify/plugin-nextjs`,
+- Site: **https://riftbound-decks-pedro.netlify.app** (site id a920f1ba-bb69-4622-b83d-2c1776821877; nomes com o token "meta" são recusados pelo Netlify) (base `web/`, plugin `@netlify/plugin-nextjs`,
   Node 22 obrigatório por causa do `node:sqlite`)
 - O `.db` e as imagens (`web/public/img`, ~330MB) VÃO no git: o site é servido
   a partir deles. O build copia `../riftbound.db` pra `web/` e o tracing do Next
   leva junto na função serverless (ver `next.config.ts` + `lib/data.ts`).
+- Três pegadinhas resolvidas em 15/08/2026: (1) `public/img` tem que ficar FORA
+  do bundle da função (`outputFileTracingExcludes`), senão "request body too
+  large"; (2) o banco tem que estar em `journal_mode=DELETE` (o `load_db.py` já
+  deixa): em WAL a Lambda (filesystem read-only) dá "unable to open database
+  file"; (3) `DatabaseSync(..., { readOnly: true })`.
 - Fluxo de atualização = rotina local + `git add -A && git commit && git push`
   (o push dispara o deploy). Sem push, o site fica com o snapshot anterior.
