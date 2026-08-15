@@ -15,32 +15,41 @@ export default function StaplesTable({
   totalDecks: number
 }) {
   const [q, setQ] = useState('')
-  const [rarity, setRarity] = useState('all')
-  const [set, setSet] = useState('all')
+  // raridade e coleção são MULTI-seleção (vazio = todas)
+  const [rarities, setRarities] = useState<Set<string>>(new Set())
+  const [sets, setSets] = useState<Set<string>>(new Set())
   const [cat, setCat] = useState('all')
   const [minIncl, setMinIncl] = useState(0)
 
-  const sets = useMemo(
+  const setOptions = useMemo(
     () => [...new Set(cards.map((c) => c.code.split('-')[0]).filter(Boolean))].sort(),
     [cards],
   )
-  const rarities = useMemo(() => {
+  const rarityOptions = useMemo(() => {
     const have = new Set(cards.map((c) => c.rarity).filter(Boolean))
     return RARITY_ORDER.filter((r) => have.has(r))
   }, [cards])
+
+  const toggle = (setter: (f: (s: Set<string>) => Set<string>) => void, v: string) =>
+    setter((prev) => {
+      const next = new Set(prev)
+      if (next.has(v)) next.delete(v)
+      else next.add(v)
+      return next
+    })
 
   const rows = useMemo(
     () =>
       cards.filter(
         (c) =>
-          (rarity === 'all' || c.rarity === rarity) &&
-          (set === 'all' || c.code.startsWith(set + '-')) &&
+          (rarities.size === 0 || rarities.has(c.rarity)) &&
+          (sets.size === 0 || sets.has(c.code.split('-')[0])) &&
           (cat === 'all' || c.cat === cat) &&
           c.incl >= minIncl &&
           (c.name.toLowerCase().includes(q.toLowerCase()) ||
             c.code.toLowerCase().includes(q.toLowerCase())),
       ),
-    [cards, q, rarity, set, cat, minIncl],
+    [cards, q, rarities, sets, cat, minIncl],
   )
 
   // lista copiável: "3x Nome" fixo, sem repetição (a mesma carta pode
@@ -58,22 +67,6 @@ export default function StaplesTable({
           value={q}
           onChange={(e) => setQ(e.target.value)}
         />
-        <select value={rarity} onChange={(e) => setRarity(e.target.value)}>
-          <option value="all">todas as raridades</option>
-          {rarities.map((r) => (
-            <option key={r} value={r}>
-              {RARITY_NAME[r] ?? r}
-            </option>
-          ))}
-        </select>
-        <select value={set} onChange={(e) => setSet(e.target.value)}>
-          <option value="all">todas as coleções</option>
-          {sets.map((s) => (
-            <option key={s} value={s}>
-              {s}
-            </option>
-          ))}
-        </select>
         <select value={cat} onChange={(e) => setCat(e.target.value)}>
           <option value="all">todos os tipos</option>
           {Object.entries(CAT_NAME).map(([k, v]) => (
@@ -90,6 +83,42 @@ export default function StaplesTable({
         </select>
         <span className="note">{rows.length} cartas</span>
         <CopyButton text={listText} />
+      </div>
+      <div className="controls" style={{ marginTop: 8 }}>
+        <span className="note">raridade</span>
+        {rarityOptions.map((r) => (
+          <button
+            key={r}
+            type="button"
+            className={rarities.has(r) ? 'on' : ''}
+            onClick={() => toggle(setRarities, r)}
+          >
+            {RARITY_NAME[r] ?? r}
+          </button>
+        ))}
+        <span className="note" style={{ marginLeft: 12 }}>coleção</span>
+        {setOptions.map((st) => (
+          <button
+            key={st}
+            type="button"
+            className={sets.has(st) ? 'on' : ''}
+            onClick={() => toggle(setSets, st)}
+          >
+            {st}
+          </button>
+        ))}
+        {(rarities.size > 0 || sets.size > 0) && (
+          <button
+            type="button"
+            onClick={() => {
+              setRarities(new Set())
+              setSets(new Set())
+            }}
+            style={{ marginLeft: 8 }}
+          >
+            limpar
+          </button>
+        )}
       </div>
       <div className="note" style={{ marginBottom: 10 }}>
         Ranking por presença nos {totalDecks} decks do recorte. O botão copiar leva a

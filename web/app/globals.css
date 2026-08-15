@@ -310,6 +310,16 @@ button.ui:hover {
   color: var(--tx3);
   line-height: 1.6;
 }
+/* chip toggle (filtros multi-selecao) */
+.controls button {
+  cursor: pointer;
+}
+.controls button.on {
+  background: var(--acc2);
+  border-color: var(--acc2);
+  color: #fff;
+  font-weight: 700;
+}
 
 /* ---------- matriz ---------- */
 .mx {
