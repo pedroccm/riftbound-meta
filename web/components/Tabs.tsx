@@ -9,6 +9,7 @@ const TABS = [
   { href: '/cartas', label: 'Cartas' },
   { href: '/staples', label: 'Mais usadas' },
   { href: '/torneios', label: 'Torneios' },
+  { href: '/colecao', label: 'Minha coleção' },
   { href: '/metodologia', label: 'Metodologia' },
 ]
 

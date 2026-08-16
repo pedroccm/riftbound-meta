@@ -350,3 +350,15 @@ export function getTournaments(p: Period = {}): Tournament[] {
     winner: r.wplayer ? { player: r.wplayer, legend: r.wlegend ?? '', slug: r.wslug ?? '' } : null,
   }))
 }
+
+/** Catálogo de cartas conhecidas (1 linha por código) pra enriquecer a coleção. */
+export type CatalogCard = { code: string; name: string; cat: string; rarity: string; image: string; lists: number }
+export function getCatalog(): CatalogCard[] {
+  return all(
+    `SELECT code, MAX(nome) name, MAX(cat) cat, MAX(rarity) rarity, MAX(image) image,
+            COUNT(DISTINCT deck_id) lists
+       FROM cartas WHERE code <> '' GROUP BY code ORDER BY lists DESC`).map((r) => ({
+    code: r.code, name: r.name ?? '', cat: r.cat ?? '', rarity: r.rarity ?? '',
+    image: r.image ?? '', lists: r.lists ?? 0,
+  }))
+}

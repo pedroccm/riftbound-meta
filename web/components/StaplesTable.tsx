@@ -5,6 +5,7 @@ import { useMemo, useState } from 'react'
 import type { CardRow } from '@/lib/types'
 import { CAT_NAME, RARITY_NAME, RARITY_ORDER, usd } from '@/lib/format'
 import CopyButton from './CopyButton'
+import { useCollection } from '@/lib/collection'
 
 /** /staples: cartas mais usadas com filtros de raridade e coleção + copiar lista. */
 export default function StaplesTable({
@@ -20,6 +21,10 @@ export default function StaplesTable({
   const [sets, setSets] = useState<Set<string>>(new Set())
   const [cat, setCat] = useState('all')
   const [minIncl, setMinIncl] = useState(0)
+  const [onlyMissing, setOnlyMissing] = useState(false)
+  const { has, ready: colReady, total: colTotal } = useCollection()
+  // "quero" = 3 copias (padrao do jogo); falta = quero - tenho
+  const WANT = 3
 
   const setOptions = useMemo(
     () => [...new Set(cards.map((c) => c.code.split('-')[0]).filter(Boolean))].sort(),
@@ -46,16 +51,18 @@ export default function StaplesTable({
           (sets.size === 0 || sets.has(c.code.split('-')[0])) &&
           (cat === 'all' || c.cat === cat) &&
           c.incl >= minIncl &&
+          (!onlyMissing || has(c.code) < WANT) &&
           (c.name.toLowerCase().includes(q.toLowerCase()) ||
             c.code.toLowerCase().includes(q.toLowerCase())),
       ),
-    [cards, q, rarities, sets, cat, minIncl],
+    [cards, q, rarities, sets, cat, minIncl, onlyMissing, has],
   )
 
-  // lista copiável: "3x Nome" fixo, sem repetição (a mesma carta pode
-  // aparecer em 2 linhas quando joga no main e no sideboard)
-  const listText = [...new Set(rows.map((c) => c.name))]
-    .map((n) => `3x ${n}`)
+  // com "só o que falta" ligado, a quantidade vira o que FALTA (3 - tenho)
+  const seen = new Set<string>()
+  const listText = rows
+    .filter((c) => (seen.has(c.name) ? false : (seen.add(c.name), true)))
+    .map((c) => `${onlyMissing ? Math.max(0, WANT - has(c.code)) : WANT}x ${c.name}`)
     .join('\n')
 
   return (
@@ -107,6 +114,17 @@ export default function StaplesTable({
             {st}
           </button>
         ))}
+        {colReady && colTotal > 0 && (
+          <button
+            type="button"
+            className={onlyMissing ? 'on' : ''}
+            onClick={() => setOnlyMissing((v) => !v)}
+            style={{ marginLeft: 12 }}
+            title="esconde as cartas que você já tem 3+ na coleção"
+          >
+            só o que me falta
+          </button>
+        )}
         {(rarities.size > 0 || sets.size > 0) && (
           <button
             type="button"
@@ -122,7 +140,9 @@ export default function StaplesTable({
       </div>
       <div className="note" style={{ marginBottom: 10 }}>
         Ranking por presença nos {totalDecks} decks do recorte. O botão copiar leva a
-        lista filtrada com um nome de carta por linha, sem repetição.
+        lista filtrada, um nome por linha (3x cada; com &ldquo;só o que me falta&rdquo; ligado, a
+        quantidade vira o que falta pra completar 3). A coluna Tenho vem da{' '}
+        <Link href="/colecao">sua coleção</Link>.
       </div>
       <div className="scroll">
         <table>
@@ -137,6 +157,7 @@ export default function StaplesTable({
               <th className="num">Decks</th>
               <th className="num">Média de cópias</th>
               <th className="num">Preço un.</th>
+              <th className="num">Tenho</th>
               <th>Lendas que mais jogam</th>
             </tr>
           </thead>
@@ -154,6 +175,15 @@ export default function StaplesTable({
                 <td className="num">{c.lists}</td>
                 <td className="num">{c.avg.toFixed(2)}</td>
                 <td className="num">{usd(c.price)}</td>
+                <td className="num">
+                  {colReady && colTotal > 0 ? (
+                    <span className={`pill ${has(c.code) >= WANT ? 'pgood' : has(c.code) > 0 ? 'pmid' : 'pbad'}`}>
+                      {has(c.code)}/{WANT}
+                    </span>
+                  ) : (
+                    <span className="muted">—</span>
+                  )}
+                </td>
                 <td style={{ fontSize: 11 }}>
                   {c.legends.slice(0, 4).map(([slug, name, n]) => (
                     <Link key={slug} href={`/lendas/${slug}`} className="chip" style={{ marginRight: 4 }}>

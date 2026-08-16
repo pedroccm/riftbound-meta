@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import { getDeck, CAT_NAME, CAT_ORDER, usd } from '@/lib/data'
 import CardImage from '@/components/CardImage'
 import CopyButton from '@/components/CopyButton'
+import DeckMissing from '@/components/DeckMissing'
 import { Domains, Panel } from '@/components/ui'
 
 export const metadata = { title: 'Deck · Meta Riftbound' }
@@ -69,6 +70,7 @@ export default async function DeckPage({ params }: { params: Promise<{ id: strin
         <div className="note" style={{ marginBottom: 12 }}>
           {total} cartas
         </div>
+        <DeckMissing cards={deck.cards.map((c) => ({ name: c.name, code: c.code, qty: c.qty }))} />
         {cats.map((cat) => (
           <div key={cat} style={{ marginBottom: 16 }}>
             <div className="catrow">
