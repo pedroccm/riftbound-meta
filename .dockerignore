@@ -1,0 +1,11 @@
+web/node_modules
+web/.next
+web/dev.log
+web/riftbound.db*
+web/tsconfig.tsbuildinfo
+data/
+.patchright_profile/
+__pycache__/
+*.log
+rift_clearance.json
+.git
