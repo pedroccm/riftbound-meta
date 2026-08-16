@@ -4,7 +4,7 @@ import { getLegend, pct, usd, CAT_NAME } from '@/lib/data'
 import type { SkelCard } from '@/lib/types'
 import { getPeriod } from '@/lib/period'
 import CardImage from '@/components/CardImage'
-import CopyButton from '@/components/CopyButton'
+import CopyList from '@/components/CopyList'
 import { Conv, Domains, LegendIcon, Panel } from '@/components/ui'
 
 export const metadata = { title: 'Lenda · Meta Riftbound' }
@@ -53,10 +53,6 @@ export default async function LegendPage({ params }: { params: Promise<{ slug: s
   const legend = getLegend(slug, await getPeriod())
   if (!legend) notFound()
   const s = legend.stats
-
-  const conText = legend.consensus
-    .map((c) => `${c.count} ${c.name} (${c.code})`)
-    .join('\n')
 
   return (
     <div className="wrap">
@@ -129,7 +125,7 @@ export default async function LegendPage({ params }: { params: Promise<{ slug: s
         <Panel
           title={`Lista consenso (${legend.consensusTotal} cartas)`}
           note="Cartas presentes em 50% ou mais das listas da lenda, na quantidade mais comum de cada uma. Não é necessariamente uma lista legal completa: é o núcleo que o campo concorda em jogar."
-          right={<CopyButton text={conText} />}
+          right={<CopyList cards={legend.consensus.map((c) => ({ name: c.name, code: c.code, qty: c.count }))} />}
         >
           <div className="imggrid">
             {legend.consensus.map((c) => (

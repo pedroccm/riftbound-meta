@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { useMemo, useState } from 'react'
 import type { CardRow } from '@/lib/types'
 import { CAT_NAME, RARITY_NAME, RARITY_ORDER, usd } from '@/lib/format'
-import CopyButton from './CopyButton'
+import CopyList from './CopyList'
 import { useCollection } from '@/lib/collection'
 
 /** /staples: cartas mais usadas com filtros de raridade e coleção + copiar lista. */
@@ -58,12 +58,13 @@ export default function StaplesTable({
     [cards, q, rarities, sets, cat, minIncl, onlyMissing, has],
   )
 
-  // com "só o que falta" ligado, a quantidade vira o que FALTA (3 - tenho)
-  const seen = new Set<string>()
-  const listText = rows
-    .filter((c) => (seen.has(c.name) ? false : (seen.add(c.name), true)))
-    .map((c) => `${onlyMissing ? Math.max(0, WANT - has(c.code)) : WANT}x ${c.name}`)
-    .join('\n')
+  // lista pro CopyList: 3x cada carta (padrão do jogo), sem repetição por código
+  const copyCards = useMemo(() => {
+    const seen = new Set<string>()
+    return rows
+      .filter((c) => (seen.has(c.code) ? false : (seen.add(c.code), true)))
+      .map((c) => ({ name: c.name, code: c.code, qty: WANT }))
+  }, [rows])
 
   return (
     <div className="panel">
@@ -89,7 +90,7 @@ export default function StaplesTable({
           <option value={50}>50%+ dos decks</option>
         </select>
         <span className="note">{rows.length} cartas</span>
-        <CopyButton text={listText} />
+        <CopyList cards={copyCards} />
       </div>
       <div className="controls" style={{ marginTop: 8 }}>
         <span className="note">raridade</span>
@@ -139,10 +140,9 @@ export default function StaplesTable({
         )}
       </div>
       <div className="note" style={{ marginBottom: 10 }}>
-        Ranking por presença nos {totalDecks} decks do recorte. O botão copiar leva a
-        lista filtrada, um nome por linha (3x cada; com &ldquo;só o que me falta&rdquo; ligado, a
-        quantidade vira o que falta pra completar 3). A coluna Tenho vem da{' '}
-        <Link href="/colecao">sua coleção</Link>.
+        Ranking por presença nos {totalDecks} decks do recorte. O copiar leva a lista
+        filtrada no formato &ldquo;3x Nome&rdquo;; na engrenagem dá pra descontar o que você já
+        tem e escolher as edições. A coluna Tenho vem da <Link href="/colecao">sua coleção</Link>.
       </div>
       <div className="scroll">
         <table>

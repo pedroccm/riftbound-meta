@@ -3,7 +3,6 @@
 import Link from 'next/link'
 import { useMemo } from 'react'
 import { useCollection } from '@/lib/collection'
-import CopyButton from './CopyButton'
 
 type C = { name: string; code: string; qty: number }
 
@@ -43,8 +42,9 @@ export default function DeckMissing({ cards }: { cards: C[] }) {
           <span className="pill pbad">
             faltam {totalMissing} cartas ({missing.length} distintas)
           </span>
-          <CopyButton text={text} />
-          <span className="note">copiar = lista de compras só com o que falta</span>
+          <span className="note">
+            no botão copiar (topo), marque &ldquo;excluir o que já tenho&rdquo; pra sair só a lista de compras
+          </span>
         </>
       )}
     </div>
