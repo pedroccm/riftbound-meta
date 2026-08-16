@@ -23,8 +23,9 @@ export default function StaplesTable({
   const [minIncl, setMinIncl] = useState(0)
   const [onlyMissing, setOnlyMissing] = useState(false)
   const { has, ready: colReady, total: colTotal } = useCollection()
-  // "quero" = 3 copias (padrao do jogo); falta = quero - tenho
-  const WANT = 3
+  // "quero" por tipo: lenda e campeao sao 1 por deck; runa a gente compra 1x
+  // (o kit); o resto 3 (limite do jogo). falta = quero - tenho
+  const wantOf = (cat: string) => (cat === 'legend' || cat === 'champion' || cat === 'runes' ? 1 : 3)
 
   const setOptions = useMemo(
     () => [...new Set(cards.map((c) => c.code.split('-')[0]).filter(Boolean))].sort(),
@@ -51,7 +52,7 @@ export default function StaplesTable({
           (sets.size === 0 || sets.has(c.code.split('-')[0])) &&
           (cat === 'all' || c.cat === cat) &&
           c.incl >= minIncl &&
-          (!onlyMissing || has(c.code) < WANT) &&
+          (!onlyMissing || has(c.code) < wantOf(c.cat)) &&
           (c.name.toLowerCase().includes(q.toLowerCase()) ||
             c.code.toLowerCase().includes(q.toLowerCase())),
       ),
@@ -63,7 +64,7 @@ export default function StaplesTable({
     const seen = new Set<string>()
     return rows
       .filter((c) => (seen.has(c.code) ? false : (seen.add(c.code), true)))
-      .map((c) => ({ name: c.name, code: c.code, qty: WANT }))
+      .map((c) => ({ name: c.name, code: c.code, qty: wantOf(c.cat) }))
   }, [rows])
 
   return (
@@ -141,8 +142,8 @@ export default function StaplesTable({
       </div>
       <div className="note" style={{ marginBottom: 10 }}>
         Ranking por presença nos {totalDecks} decks do recorte. O copiar leva a lista
-        filtrada no formato &ldquo;3x Nome&rdquo;; na engrenagem dá pra descontar o que você já
-        tem e escolher as edições. A coluna Tenho vem da <Link href="/colecao">sua coleção</Link>.
+        filtrada no formato &ldquo;3x Nome&rdquo; (lenda, campeão e runa saem 1x: são 1 por deck /
+        kit); na engrenagem dá pra descontar o que você já tem e escolher as edições. A coluna Tenho vem da <Link href="/colecao">sua coleção</Link>.
       </div>
       <div className="scroll">
         <table>
@@ -177,8 +178,8 @@ export default function StaplesTable({
                 <td className="num">{usd(c.price)}</td>
                 <td className="num">
                   {colReady && colTotal > 0 ? (
-                    <span className={`pill ${has(c.code) >= WANT ? 'pgood' : has(c.code) > 0 ? 'pmid' : 'pbad'}`}>
-                      {has(c.code)}/{WANT}
+                    <span className={`pill ${has(c.code) >= wantOf(c.cat) ? 'pgood' : has(c.code) > 0 ? 'pmid' : 'pbad'}`}>
+                      {has(c.code)}/{wantOf(c.cat)}
                     </span>
                   ) : (
                     <span className="muted">—</span>
